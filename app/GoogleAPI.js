@@ -27,7 +27,7 @@ GoogleAPI.getScreeFlowData = function(tabIndex) {
     function workingWithRows(step) {
       sheet.getRows({
         offset: 1,
-        limit: 1
+        limit: 1000
       }, function( err, rows ){
         deferred.resolve(rows);
    
