@@ -79,6 +79,14 @@ function fillInArray(array, item, maxSize) {
   return array;
 }
 
+function getImagePath(imageFileName) {
+  return 'https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/' + imageFileName;
+}
+
+function getYoutubeId(videoUrl) {
+  return videoUrl.replace('https://youtu.be/', '');
+}
+
 function generateSession(config, rowList, session) {
   var screenFlow = [
     'StaticScreen',
@@ -95,7 +103,7 @@ function generateSession(config, rowList, session) {
   ];
 
   var rows = rowList.getRowsBySession(session);
-  var imageBasePath = 'https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/';
+  
   var previousType = null;
   var sessionIndex = 0; //session - 1;
   var exerciseIndex = 0;
@@ -133,7 +141,7 @@ function generateSession(config, rowList, session) {
       case 'StaticScreen2':
       case 'StaticScreen3': {
         val = {
-          'image': imageBasePath + row.image,
+          'image': getImagePath(row.image),
           'text': row.mainText
             .replace(/\n/g, '<br>')
             .replace('\n\nWenn du die ganze Geschichte noch einmal hören möchtest, klicke auf „nochmal anhören“\nWenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“\n', ''),
@@ -142,8 +150,19 @@ function generateSession(config, rowList, session) {
       } break;
 
       case 'IntroVideo': {
-        val = [row.video1Id.replace('https://youtu.be/', '')];
+        val = [getYoutubeId(row.video1Id)];
       } break;
+
+      case 'PreESVideo':
+      case 'PostESVideo': {
+        if(!config[rowName][sessionIndex][exerciseIndex]) {
+          config[rowName][sessionIndex][exerciseIndex] = [];
+        }
+
+        let index = row.type.contains('Pre') ? 0 : 1;
+
+        config[rowName][sessionIndex][exerciseIndex][index] = getYoutubeId(row.video1Id);
+      }
     }
 
     if (val) {
@@ -152,6 +171,8 @@ function generateSession(config, rowList, session) {
 
     // increase exercise index and fill in entries for missing screens
     if (previousType != null && screenFlow.indexOf(row.type) < screenFlow.indexOf(previousType)) {
+      console.log(row.type, previousType, screenFlow.indexOf(row.type), screenFlow.indexOf(previousType));
+
       for(let configSection in config) {
         if (config.hasOwnProperty(configSection) && !config[configSection][sessionIndex][exerciseIndex]) {
           let val = [];
