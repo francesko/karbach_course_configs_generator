@@ -1,7 +1,9 @@
 {
     "introVideos": [
         [
-            [],
+            [
+                "-XppHFZxVXQ"
+            ],
             [],
             [],
             []
@@ -19,7 +21,7 @@
         [
             {
                 "image": "https://contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
-                "text": "Willkommen!<br><br>Gleich wird dir die Geschichte von dem jungen Zauberer Edvin, dem Esel Bragi und der Elfe Finja erzählt. Die drei müssen den bösen Zauberer Ansgar besiegen, um das Königreich Asfallon zu befreien. Du sollst dir ihre Geschichte aufmerksam anhören und dann verschiedene Aufgaben lösen, um Edvin, Bragi und Finja zu helfen, Ansgar zu besiegen. <br>In den nächsten vier Wochen sollst du das Spiel fünfmal pro Woche (z.B. Montags, Dienstags, Donnerstags, Freitags und Sonntags) spielen. Insgesamt besteht das Spiel aus 21 Teilen.<br><br>Bitte setze nun deine Kopfhörer auf, oder schalte die Lautsprecher deines Computers ein. <br><br>Viel Spaß!",
+                "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 7. mal und sollst es insgesamt 21 mal spielen.<br>Bitte setze zuerst deine Kopfhörer auf, oder schalte deine Lautsprecher an, um mit dem nächsten Teil des Spiels zu beginnen.<br><br>Wenn du die ganze Geschichte noch einmal hören möchtest, klicke auf „nochmal anhören“<br>Wenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“<br>",
                 "button": "Weiter"
             },
             [],
@@ -30,23 +32,23 @@
     "staticScreen2": [
         [
             {
-                "image": "https://contentimg.s3.amazonaws.com/karbach/mainstudy/Haus.jpg",
-                "text": "Edvins Zaubereihilfsmittel sind noch nicht geordnet.<br>Das Spiel geht genauso weiter.",
+                "image": "https://contentimg.s3.amazonaws.com/karbach/mainstudy/Inhibition_gonogo_bücher.jpg",
+                "text": "Edvin hat noch nicht alle Zaubersprüche gelernt, um sich gegen Kobolde, Trolle, böse Elfen und Drachen zu verteidigen.<br>Das Spiel geht genauso weiter.",
                 "button": "Weiter"
             },
             {
-                "image": "https://contentimg.s3.amazonaws.com/karbach/mainstudy/AG_nback_zauberzubehör.jpg",
-                "text": "Du hast Edvin geholfen seine Zauberhilfsmittel für die Reise zu ordnen und einzupacken. Jetzt kann die Reise losgehen.",
+                "image": "https://contentimg.s3.amazonaws.com/karbach/mainstudy/Inhibition_gonogo_bücher.jpg",
+                "text": "Edvin hat viele neue Zaubersprüche gelernt.",
                 "button": "Weiter"
             },
             {
-                "image": "https://contentimg.s3.amazonaws.com/karbach/mainstudy/Pflanzensammeln.jpg",
-                "text": "Edvin hat noch nicht alle Pflanzen gesammelt. Hilf ihm weiterhin dabei!<br>Das Spiel geht genauso weiter.",
+                "image": "https://contentimg.s3.amazonaws.com/karbach/mainstudy/Bragiverzaubert3.jpg",
+                "text": "Bragi ist noch immer nicht zurückverwandelt. Hilf Edvin weiter dabei die Zutaten für einen Zaubertrank zu finden!<br>Das Spiel geht genauso weiter.",
                 "button": "Weiter"
             },
             {
-                "image": "https://contentimg.s3.amazonaws.com/karbach/mainstudy/Pflanzensammeln3.jpg",
-                "text": "Edvin und Finja haben alle Zutaten für die Zaubertränke gesammelt!",
+                "image": "https://contentimg.s3.amazonaws.com/karbach/mainstudy/Bragiverzaubert4.jpg",
+                "text": "Bragi ist wieder ein Esel und scharrt erleichtert mit den Hufen!",
                 "button": "Weiter"
             }
         ]
@@ -58,7 +60,7 @@
             [],
             {
                 "image": "https://contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
-                "text": "Bis zum nächsten Mal! <br>Du hast das Spiel mit Edvin, Bragi und Finja heute zum ersten mal gespielt. Vergiss nicht, es bald wieder zu spielen, um Edvin, Bragi und Finja zu helfen das Königreich Asfallon zu retten.<br>Im nächsten Teil warten weitere spannende Aufgaben auf dich, Edvin, Bragi und Finja. <br>",
+                "text": "Bis zum nächsten Mal! <br>Du hast das Spiel mit Edvin, Bragi und Finja heute zum 7. mal gespielt. Vergiss nicht, es bald wieder zu spielen, um Edvin, Bragi und Finja zu helfen das Königreich Asfallon zu retten.<br>Im nächsten Teil warten weitere spannende Aufgaben auf dich, Edvin, Bragi und Finja. <br>",
                 "button": "Weiter"
             }
         ]

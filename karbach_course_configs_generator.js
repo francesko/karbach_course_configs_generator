@@ -60,9 +60,11 @@ function generateConfig(rows, totalSessions) {
     postEsScreen: []
   };
 
-  for(var i = 1; i <= totalSessions; i = i + 1) {
-    generateSession(config, rowList, i)
-  }
+  // for(var i = 1; i <= totalSessions; i = i + 1) {
+  //   generateSession(config, rowList, i);
+  // }
+
+  generateSession(config, rowList, 7);
 
   fs.writeFile(configPath, JSON.stringify(config, null, 4), function (err) {
     if (err) return console.log(err);
@@ -95,7 +97,7 @@ function generateSession(config, rowList, session) {
   var rows = rowList.getRowsBySession(session);
   var imageBasePath = 'https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/';
   var previousType = null;
-  var sessionIndex = session - 1;
+  var sessionIndex = 0; //session - 1;
   var exerciseIndex = 0;
 
   config.introVideos[sessionIndex] = [];
@@ -107,26 +109,52 @@ function generateSession(config, rowList, session) {
   config.preEsScreen[sessionIndex] = [];
   config.postEsScreen[sessionIndex] = [];
 
+  var rowTypeToConfigMapping = {
+    'StaticScreen': 'staticScreen',
+    'IntroVideo': 'introVideos',
+    'PreES': 'preEsScreen',
+    'PseudoChoice': 'pseudoChoice',
+    'PreESVideo': 'tutorialVideos',
+    'Exercise': 'game',
+    'StaticScreen2': 'staticScreen2',
+    'PostES': 'postEsScreen',
+    'PostESVideo': 'tutorialVideos',
+    'Questionnaire': 'questionnaire',
+    'StaticScreen3': 'staticScreen3'
+  };
+
   for(var i = 0; i < rows.length; i = i + 1) {
     let row = rows[i];
+    let rowName = rowTypeToConfigMapping[row.type];
+    let val = null;
 
     switch(row.type) {
       case 'StaticScreen':
       case 'StaticScreen2':
       case 'StaticScreen3': {
-        config[row.type.lowercaseFirstLetter()][sessionIndex][exerciseIndex] = {
+        val = {
           'image': imageBasePath + row.image,
-          'text': row.mainText.replace(/\n/g, '<br>').replace('\n\nWenn du die ganze Geschichte noch einmal hören möchtest, klicke auf „nochmal anhören“\nWenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“\n', ''),
+          'text': row.mainText
+            .replace(/\n/g, '<br>')
+            .replace('\n\nWenn du die ganze Geschichte noch einmal hören möchtest, klicke auf „nochmal anhören“\nWenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“\n', ''),
           'button': 'Weiter'
         };
       } break;
+
+      case 'IntroVideo': {
+        val = [row.video1Id.replace('https://youtu.be/', '')];
+      } break;
+    }
+
+    if (val) {
+      config[rowName][sessionIndex][exerciseIndex] = val;
     }
 
     // increase exercise index and fill in entries for missing screens
     if (previousType != null && screenFlow.indexOf(row.type) < screenFlow.indexOf(previousType)) {
-      for(var configSection in config) {
+      for(let configSection in config) {
         if (config.hasOwnProperty(configSection) && !config[configSection][sessionIndex][exerciseIndex]) {
-          var val = [];
+          let val = [];
 
           if (configSection.contains('EsScreen')) {
             val = 0;
@@ -146,9 +174,9 @@ function generateSession(config, rowList, session) {
   // ensure that all config sections have an entry for each exercise
   var maxExercises = 4;
 
-  for(var configSection in config) {
+  for(let configSection in config) {
     if (config.hasOwnProperty(configSection) && config[configSection][sessionIndex].length < maxExercises) {
-      var val = [];
+      let val = [];
 
       if (configSection.contains('EsScreen')) {
         val = 0;

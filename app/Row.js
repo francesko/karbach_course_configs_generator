@@ -8,6 +8,7 @@ var columnMapping = {
   button2Text: 'button2text',
   video1Id: 'video1youtubeid-nameoptionale.g.httpswww.youtube.comwatchvgnebua39mni',
   video2Id: 'video2youtubeid-nameoptionalthisappliestopseudochoicescreenonly',
+  video3Id: 'video3youtubeid-nameoptionalthisappliestopseudochoicescreenonly',
   questionnaireId: 'questionnaireidasdefinedinthisspreadsheettabs',
 };
 
