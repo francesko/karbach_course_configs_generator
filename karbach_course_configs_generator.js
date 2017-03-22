@@ -13,7 +13,7 @@ var tabs = {
 
 GoogleAPI.getScreeFlowData(tabs['motivational_1'])
 .then(function(rows){
-  generateConfig(rows, 3);
+  generateConfig(rows, 21);
 })
 .catch(function(err){
   console.log('error', err);
