@@ -4,13 +4,11 @@
             [],
             [],
             [],
-            [],
             []
         ]
     ],
     "tutorialVideos": [
         [
-            [],
             [],
             [],
             [],
@@ -26,13 +24,11 @@
             },
             [],
             [],
-            [],
             []
         ]
     ],
     "staticScreen2": [
         [
-            [],
             {
                 "image": "https://contentimg.s3.amazonaws.com/karbach/mainstudy/Haus.jpg",
                 "text": "Edvins Zaubereihilfsmittel sind noch nicht geordnet.<br>Das Spiel geht genauso weiter.",
@@ -60,8 +56,6 @@
             [],
             [],
             [],
-            [],
-            [],
             {
                 "image": "https://contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
                 "text": "Bis zum nächsten Mal! <br>Du hast das Spiel mit Edvin, Bragi und Finja heute zum ersten mal gespielt. Vergiss nicht, es bald wieder zu spielen, um Edvin, Bragi und Finja zu helfen das Königreich Asfallon zu retten.<br>Im nächsten Teil warten weitere spannende Aufgaben auf dich, Edvin, Bragi und Finja. <br>",
@@ -69,18 +63,8 @@
             }
         ]
     ],
-    "staticScreen4": [
-        [
-            [],
-            [],
-            [],
-            [],
-            []
-        ]
-    ],
     "pseudoChoice": [
         [
-            [],
             [],
             [],
             [],
@@ -92,13 +76,11 @@
             0,
             0,
             0,
-            0,
             0
         ]
     ],
     "postEsScreen": [
         [
-            0,
             0,
             0,
             0,

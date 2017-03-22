@@ -9,6 +9,12 @@ String.prototype.lowercaseFirstLetter = function() {
     return this.charAt(0).toLowerCase() + this.slice(1);
 };
 
+if(!('contains' in String.prototype)) {
+  String.prototype.contains = function(str, startIndex) {
+    return -1 !== String.prototype.indexOf.call(this, str, startIndex);
+  };
+}
+
 var tabs = {
   'motivational_1': 0,
   'motivational_2': 1,
@@ -49,7 +55,6 @@ function generateConfig(rows, totalSessions) {
     staticScreen: [],
     staticScreen2: [],
     staticScreen3: [],
-    staticScreen4: [],
     pseudoChoice: [],
     preEsScreen: [],
     postEsScreen: []
@@ -64,6 +69,14 @@ function generateConfig(rows, totalSessions) {
   });
 }
 
+function fillInArray(array, item, maxSize) {
+  while(array.length < maxSize) {
+    array.push(item);
+  }
+
+  return array;
+}
+
 function generateSession(config, rowList, session) {
   var screenFlow = [
     'StaticScreen',
@@ -71,10 +84,11 @@ function generateSession(config, rowList, session) {
     'PreES',
     'PseudoChoice',
     'PreESVideo',
-    'game',
+    'Exercise',
     'StaticScreen2',
     'PostES',
     'PostESVideo',
+    'Questionnaire',
     'StaticScreen3'
   ];
 
@@ -89,7 +103,6 @@ function generateSession(config, rowList, session) {
   config.staticScreen[sessionIndex] = [];
   config.staticScreen2[sessionIndex] = [];
   config.staticScreen3[sessionIndex] = [];
-  config.staticScreen4[sessionIndex] = [];
   config.pseudoChoice[sessionIndex] = [];
   config.preEsScreen[sessionIndex] = [];
   config.postEsScreen[sessionIndex] = [];
@@ -100,8 +113,7 @@ function generateSession(config, rowList, session) {
     switch(row.type) {
       case 'StaticScreen':
       case 'StaticScreen2':
-      case 'StaticScreen3':
-      case 'StaticScreen4': {
+      case 'StaticScreen3': {
         config[row.type.lowercaseFirstLetter()][sessionIndex][exerciseIndex] = {
           'image': imageBasePath + row.image,
           'text': row.mainText.replace(/\n/g, '<br>').replace('\n\nWenn du die ganze Geschichte noch einmal hören möchtest, klicke auf „nochmal anhören“\nWenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“\n', ''),
@@ -110,41 +122,39 @@ function generateSession(config, rowList, session) {
       } break;
     }
 
+    // increase exercise index and fill in entries for missing screens
     if (previousType != null && screenFlow.indexOf(row.type) < screenFlow.indexOf(previousType)) {
-      console.log(row.type, previousType, exerciseIndex);
+      for(var configSection in config) {
+        if (config.hasOwnProperty(configSection) && !config[configSection][sessionIndex][exerciseIndex]) {
+          var val = [];
 
-      if (!config.introVideos[sessionIndex][exerciseIndex]) {
-        config.introVideos[sessionIndex][exerciseIndex] = [];
-      }
-      if (!config.tutorialVideos[sessionIndex][exerciseIndex]) {
-        config.tutorialVideos[sessionIndex][exerciseIndex] = [];
-      }
-      if (!config.staticScreen[sessionIndex][exerciseIndex]) {
-        config.staticScreen[sessionIndex][exerciseIndex] = [];
-      }
-      if (!config.staticScreen2[sessionIndex][exerciseIndex]) {
-        config.staticScreen2[sessionIndex][exerciseIndex] = [];
-      }
-      if (!config.staticScreen3[sessionIndex][exerciseIndex]) {
-        config.staticScreen3[sessionIndex][exerciseIndex] = [];
-      }
-      if (!config.staticScreen4[sessionIndex][exerciseIndex]) {
-        config.staticScreen4[sessionIndex][exerciseIndex] = [];
-      }
-      if (!config.pseudoChoice[sessionIndex][exerciseIndex]) {
-        config.pseudoChoice[sessionIndex][exerciseIndex] = [];
-      }
-      if (!config.preEsScreen[sessionIndex][exerciseIndex]) {
-        config.preEsScreen[sessionIndex][exerciseIndex] = 0;
-      }
-      if (!config.postEsScreen[sessionIndex][exerciseIndex]) {
-        config.postEsScreen[sessionIndex][exerciseIndex] = 0;
+          if (configSection.contains('EsScreen')) {
+            val = 0;
+          }
+
+          config[configSection][sessionIndex][exerciseIndex] = val;
+        }
       }
 
       exerciseIndex = exerciseIndex + 1;
       previousType = null;
     } else {
       previousType = row.type;
+    }
+  }
+
+  // ensure that all config sections have an entry for each exercise
+  var maxExercises = 4;
+
+  for(var configSection in config) {
+    if (config.hasOwnProperty(configSection) && config[configSection][sessionIndex].length < maxExercises) {
+      var val = [];
+
+      if (configSection.contains('EsScreen')) {
+        val = 0;
+      }
+
+      fillInArray(config[configSection][sessionIndex], val, maxExercises);
     }
   }
 }
