@@ -14,10 +14,10 @@
             [
                 "UGRFXMi4V5w"
             ],
+            [],
             [
                 "OK43_hV-Hu4"
             ],
-            [],
             [
                 null,
                 "Tzy6idQjhuE"
@@ -62,7 +62,7 @@
     ],
     "staticScreen3": [
         [
-            [],
+            null,
             [],
             [],
             {
@@ -74,7 +74,21 @@
     ],
     "pseudoChoice": [
         [
-            [],
+            {
+                "image": "https://contentimg.s3.amazonaws.com/karbach/mainstudy/Karte10.jpg",
+                "video": "CM4JehOX51U",
+                "text": "Wohin sollen Edvin, Bragi und Finja als nächstes gehen? <br>- Auf direktem Weg durch die Wüste zum Schloss Mondwacht, um dort die anderen Bruchstücke zu finden und Ansgar zu besiegen.<br>- Oder nach Süden in den Zauberwald, um weitere Bruchstücke des Jupitersteins zu finden und Zauberkraft zu sammeln",
+                "choices": [
+                    {
+                        "buttonText": "Durch die Wüste",
+                        "video": "ktVuQpsexLA"
+                    },
+                    {
+                        "buttonText": "Zum Zauberwald",
+                        "video": "eazrDxsu648"
+                    }
+                ]
+            },
             [],
             [],
             []
@@ -82,7 +96,7 @@
     ],
     "preEsScreen": [
         [
-            0,
+            1,
             0,
             0,
             0
@@ -90,10 +104,10 @@
     ],
     "postEsScreen": [
         [
+            null,
+            1,
             0,
-            0,
-            0,
-            0
+            1
         ]
     ]
 }

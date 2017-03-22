@@ -71,12 +71,26 @@ function generateConfig(rows, totalSessions) {
   });
 }
 
-function fillInArray(array, item, maxSize) {
+function fillInArray(array, val, maxSize) {
   while(array.length < maxSize) {
-    array.push(item);
+    array.push(val);
   }
 
+  array.forEach(function(item, index) {
+    if (item == null) {
+      console.log(item);
+      array[index] = val;
+      console.log(array[index]);
+    }
+  });
+
   return array;
+}
+
+function prepareText(text) {
+  return text
+    .replace(/\n/g, '<br>')
+    .replace('\n\nWenn du die ganze Geschichte noch einmal hören möchtest, klicke auf „nochmal anhören“\nWenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“\n', '');
 }
 
 function getImagePath(imageFileName) {
@@ -106,6 +120,7 @@ function generateSession(config, rowList, session) {
   
   var previousType = null;
   var sessionIndex = 0; //session - 1;
+  var previousExerciseIndex = 0;
   var exerciseIndex = 0;
 
   config.introVideos[sessionIndex] = [];
@@ -136,19 +151,15 @@ function generateSession(config, rowList, session) {
     let rowName = rowTypeToConfigMapping[row.type];
     let val = null;
 
-    switch(row.type) {
-      case 'StaticScreen':
-      case 'StaticScreen2':
-      case 'StaticScreen3': {
-        val = {
-          'image': getImagePath(row.image),
-          'text': row.mainText
-            .replace(/\n/g, '<br>')
-            .replace('\n\nWenn du die ganze Geschichte noch einmal hören möchtest, klicke auf „nochmal anhören“\nWenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“\n', ''),
-          'button': 'Weiter'
-        };
-      } break;
+    if (previousType != null && screenFlow.indexOf(row.type) < screenFlow.indexOf(previousType)) {
+      previousExerciseIndex = exerciseIndex;
+      exerciseIndex = exerciseIndex + 1;
+      previousType = null;
+    } else {
+      previousType = row.type;
+    }
 
+    switch(row.type) {
       case 'IntroVideo': {
         val = [getYoutubeId(row.video1Id)];
       } break;
@@ -162,7 +173,41 @@ function generateSession(config, rowList, session) {
         let index = row.type.contains('Pre') ? 0 : 1;
 
         config[rowName][sessionIndex][exerciseIndex][index] = getYoutubeId(row.video1Id);
-      }
+      } break;
+
+      case 'StaticScreen':
+      case 'StaticScreen2':
+      case 'StaticScreen3': {
+        val = {
+          'image': getImagePath(row.image),
+          'text': prepareText(row.mainText)
+            ,
+          'button': 'Weiter'
+        };
+      } break;
+
+      case 'PseudoChoice': {
+        val = {
+          "image": getImagePath(row.image),
+          "video": getYoutubeId(row.video1Id),
+          "text": prepareText(row.mainText),
+          "choices": [
+            {
+              "buttonText": row.button1Text,
+              "video": getYoutubeId(row.video2Id)
+            },
+            {
+              "buttonText": row.button2Text,
+              "video": getYoutubeId(row.video3Id)
+            }
+          ]
+        };
+      } break;
+
+      case 'PreES':
+      case 'PostES': {
+        config[rowName][sessionIndex][exerciseIndex] = 1;
+      } break;
     }
 
     if (val) {
@@ -170,9 +215,7 @@ function generateSession(config, rowList, session) {
     }
 
     // increase exercise index and fill in entries for missing screens
-    if (previousType != null && screenFlow.indexOf(row.type) < screenFlow.indexOf(previousType)) {
-      console.log(row.type, previousType, screenFlow.indexOf(row.type), screenFlow.indexOf(previousType));
-
+    if (previousExerciseIndex != exerciseIndex) {
       for(let configSection in config) {
         if (config.hasOwnProperty(configSection) && !config[configSection][sessionIndex][exerciseIndex]) {
           let val = [];
@@ -184,11 +227,6 @@ function generateSession(config, rowList, session) {
           config[configSection][sessionIndex][exerciseIndex] = val;
         }
       }
-
-      exerciseIndex = exerciseIndex + 1;
-      previousType = null;
-    } else {
-      previousType = row.type;
     }
   }
 
@@ -196,7 +234,7 @@ function generateSession(config, rowList, session) {
   var maxExercises = 4;
 
   for(let configSection in config) {
-    if (config.hasOwnProperty(configSection) && config[configSection][sessionIndex].length < maxExercises) {
+    if (config.hasOwnProperty(configSection)) {
       let val = [];
 
       if (configSection.contains('EsScreen')) {
