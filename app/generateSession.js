@@ -30,9 +30,7 @@ const rowTypeToConfigMapping = {
 
 module.exports = function(config, rowList, session) {
   var rows = rowList.getRowsBySession(session);
-  var previousType = null;
   var sessionIndex = session - 1;
-  var previousExerciseIndex = 0;
   var exerciseIndex = 0;
 
   config.introVideos[sessionIndex] = [];
@@ -48,14 +46,6 @@ module.exports = function(config, rowList, session) {
     let row = rows[i];
     let rowName = rowTypeToConfigMapping[row.type];
     let val = null;
-
-    if (previousType != null && screenFlow.indexOf(row.type) < screenFlow.indexOf(previousType)) {
-      previousExerciseIndex = exerciseIndex;
-      exerciseIndex = exerciseIndex + 1;
-      previousType = null;
-    } else {
-      previousType = row.type;
-    }
 
     switch(row.type) {
       case 'IntroVideo': {
@@ -116,20 +106,24 @@ module.exports = function(config, rowList, session) {
       config[rowName][sessionIndex][exerciseIndex] = val;
     }
 
-    // increase exercise index and fill in entries for missing screens
-    if (previousExerciseIndex != exerciseIndex) {
-      for(let configSection in config) {
-        if (config.hasOwnProperty(configSection) && !config[configSection][sessionIndex][exerciseIndex]) {
-          let val = [];
-
-          if (configSection.contains('EsScreen')) {
-            val = 0;
-          }
-
-          config[configSection][sessionIndex][exerciseIndex] = val;
-        }
-      }
+    if (row.flowEnd) {
+      exerciseIndex = exerciseIndex + 1;
     }
+
+    // // increase exercise index and fill in entries for missing screens
+    // if (previousExerciseIndex != exerciseIndex) {
+    //   for(let configSection in config) {
+    //     if (config.hasOwnProperty(configSection) && !config[configSection][sessionIndex][exerciseIndex]) {
+    //       let val = [];
+
+    //       if (configSection.contains('EsScreen')) {
+    //         val = 0;
+    //       }
+
+    //       config[configSection][sessionIndex][exerciseIndex] = val;
+    //     }
+    //   }
+    // }
   }
 
   // ensure that all config sections have an entry for each exercise

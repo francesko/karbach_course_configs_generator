@@ -1,6 +1,7 @@
 var columnMapping = {
   session: 'session',
   type: 'type',
+  flowEnd: 'flowend',
   exerciseName: 'exercisename',
   mainText: 'maintext',
   image: 'image',
@@ -9,7 +10,7 @@ var columnMapping = {
   video1Id: 'video1youtubeid-nameoptionale.g.httpswww.youtube.comwatchvgnebua39mni',
   video2Id: 'video2youtubeid-nameoptionalthisappliestopseudochoicescreenonly',
   video3Id: 'video3youtubeid-nameoptionalthisappliestopseudochoicescreenonly',
-  questionnaireId: 'questionnaireidasdefinedinthisspreadsheettabs',
+  questionnaireId: 'questionnaireidasdefinedinthisspreadsheettabs'
 };
 
 function Row(rowData) {

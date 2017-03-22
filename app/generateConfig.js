@@ -33,7 +33,7 @@ module.exports = function(rows, totalSessions) {
     generateSession(config, rowList, i);
   }
 
-  fs.writeFile(configPath, JSON.stringify(config, null, 4), function (err) {
+  fs.writeFile(configPath, JSON.stringify(config, null, 4).replace(/https:\/\//g, 'https:\\/\\/'), function (err) {
     if (err) return console.log(err);
   });
 };

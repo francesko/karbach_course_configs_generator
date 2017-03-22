@@ -22,7 +22,6 @@
             ],
             [],
             [],
-            [],
             []
         ]
     ],
@@ -59,7 +58,6 @@
             [
                 "SAmXwT3gZOs"
             ],
-            [],
             [
                 "sNMyeSySKvw"
             ]
@@ -68,7 +66,7 @@
     "staticScreen": [
         [
             {
-                "image": "https://contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+                "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
                 "text": "Willkommen!<br><br>Gleich wird dir die Geschichte von dem jungen Zauberer Edvin, dem Esel Bragi und der Elfe Finja erzählt. Die drei müssen den bösen Zauberer Ansgar besiegen, um das Königreich Asfallon zu befreien. Du sollst dir ihre Geschichte aufmerksam anhören und dann verschiedene Aufgaben lösen, um Edvin, Bragi und Finja zu helfen, Ansgar zu besiegen. <br>In den nächsten vier Wochen sollst du das Spiel fünfmal pro Woche (z.B. Montags, Dienstags, Donnerstags, Freitags und Sonntags) spielen. Insgesamt besteht das Spiel aus 21 Teilen.<br><br>Bitte setze nun deine Kopfhörer auf, oder schalte die Lautsprecher deines Computers ein. <br><br>Viel Spaß!",
                 "button": "Weiter"
             },
@@ -78,7 +76,7 @@
         ],
         [
             {
-                "image": "https://contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+                "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
                 "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 2. mal und sollst es insgesamt 21 mal spielen.<br>Bitte setze zuerst deine Kopfhörer auf, oder schalte deine Lautsprecher an, um mit dem nächsten Teil des Spiels zu beginnen.<br><br>Wenn du die ganze Geschichte noch einmal hören möchtest, klicke auf „nochmal anhören“<br>Wenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“<br>",
                 "button": "Weiter"
             },
@@ -88,11 +86,10 @@
         ],
         [
             {
-                "image": "https://contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+                "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
                 "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 3. mal und sollst es insgesamt 21 mal spielen.<br>Bitte setze zuerst deine Kopfhörer auf, oder schalte deine Lautsprecher an, um mit dem nächsten Teil des Spiels zu beginnen.<br><br>Wenn du die ganze Geschichte noch einmal hören möchtest, klicke auf „nochmal anhören“<br>Wenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“<br>",
                 "button": "Weiter"
             },
-            [],
             [],
             [],
             []
@@ -101,70 +98,69 @@
     "staticScreen2": [
         [
             {
-                "image": "https://contentimg.s3.amazonaws.com/karbach/mainstudy/Haus.jpg",
+                "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Haus.jpg",
                 "text": "Edvins Zaubereihilfsmittel sind noch nicht geordnet.<br>Das Spiel geht genauso weiter.",
                 "button": "Weiter"
             },
             {
-                "image": "https://contentimg.s3.amazonaws.com/karbach/mainstudy/AG_nback_zauberzubehör.jpg",
+                "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/AG_nback_zauberzubehör.jpg",
                 "text": "Du hast Edvin geholfen seine Zauberhilfsmittel für die Reise zu ordnen und einzupacken. Jetzt kann die Reise losgehen.",
                 "button": "Weiter"
             },
             {
-                "image": "https://contentimg.s3.amazonaws.com/karbach/mainstudy/Pflanzensammeln.jpg",
+                "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Pflanzensammeln.jpg",
                 "text": "Edvin hat noch nicht alle Pflanzen gesammelt. Hilf ihm weiterhin dabei!<br>Das Spiel geht genauso weiter.",
                 "button": "Weiter"
             },
             {
-                "image": "https://contentimg.s3.amazonaws.com/karbach/mainstudy/Pflanzensammeln3.jpg",
+                "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Pflanzensammeln3.jpg",
                 "text": "Edvin und Finja haben alle Zutaten für die Zaubertränke gesammelt!",
                 "button": "Weiter"
             }
         ],
         [
             {
-                "image": "https://contentimg.s3.amazonaws.com/karbach/mainstudy/Maisfeld.jpg",
+                "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Maisfeld.jpg",
                 "text": "Edvin und Bragi irren immer noch im Maisfeld umher. Hilf ihnen den Weg zu finden.<br>Das Spiel geht genauso weiter.",
                 "button": "Weiter"
             },
             {
-                "image": "https://contentimg.s3.amazonaws.com/karbach/mainstudy/Karte5.jpg",
+                "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Karte5.jpg",
                 "text": "Edvin, Bragi und Finja haben mit deiner Hilfe den Weg aus dem Maisfeld gefunden! Die Reise kann weitergehen!",
                 "button": "Weiter"
             },
             {
-                "image": "https://contentimg.s3.amazonaws.com/karbach/mainstudy/EdvinKarte.jpg",
+                "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/EdvinKarte.jpg",
                 "text": "Die verzauberte Karte ist noch nicht geöffnet. Hilf Edvin weiterhin das Rätsel zu lösen, um die Karte zu öffnen.<br>Das Spiel geht genauso weiter.",
                 "button": "Weiter"
             },
             {
-                "image": "https://contentimg.s3.amazonaws.com/karbach/mainstudy/Karte29",
+                "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Karte29",
                 "text": "Du hast Edvin geholfen die verzauberte Karte zu öffnen! Jetzt können die drei nachsehen, wo das erste Bruchstück des Jupitersteins versteckt ist.",
                 "button": "Weiter"
             }
         ],
         [
             {
-                "image": "https://contentimg.s3.amazonaws.com/karbach/mainstudy/",
+                "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
                 "text": "Edvin hat noch nicht alle Kobolde verjagt. Hilf ihm weiterhin dabei!<br>Das Spiel geht genauso weiter.<br>",
                 "button": "Weiter"
             },
             {
-                "image": "https://contentimg.s3.amazonaws.com/karbach/mainstudy/Kobolde2",
+                "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Kobolde2",
                 "text": "Edvin, Bragi und Finja haben alle Kobolde mit Zauberei bekämpft!",
                 "button": "Weiter"
             },
             {
-                "image": "https://contentimg.s3.amazonaws.com/karbach/mainstudy/Labyrinthdunkel.jpg",
+                "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Labyrinthdunkel.jpg",
                 "text": "Edvin und Bragi irren immer noch im dunklen Wald umher. Hilf ihnen den Weg zu finden.<br>Das Spiel geht genauso weiter.",
                 "button": "Weiter"
             },
             {
-                "image": "https://contentimg.s3.amazonaws.com/karbach/mainstudy/Karte7",
+                "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Karte7",
                 "text": "Edvin, Bragi und Finja haben mit deiner Hilfe den Weg aus dem dunklen Wald gefunden! Am nächsten Morgen kann die Reise weitergehen!",
                 "button": "Weiter"
-            },
-            []
+            }
         ]
     ],
     "staticScreen3": [
@@ -173,7 +169,7 @@
             [],
             [],
             {
-                "image": "https://contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+                "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
                 "text": "Bis zum nächsten Mal! <br>Du hast das Spiel mit Edvin, Bragi und Finja heute zum ersten mal gespielt. Vergiss nicht, es bald wieder zu spielen, um Edvin, Bragi und Finja zu helfen das Königreich Asfallon zu retten.<br>Im nächsten Teil warten weitere spannende Aufgaben auf dich, Edvin, Bragi und Finja. <br>",
                 "button": "Weiter"
             }
@@ -183,7 +179,7 @@
             [],
             [],
             {
-                "image": "https://contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+                "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
                 "text": "Bis zum nächsten Mal! <br>Du hast das Spiel mit Edvin, Bragi und Finja heute zum 2. mal gespielt. Vergiss nicht, es bald wieder zu spielen, um Edvin, Bragi und Finja zu helfen das Königreich Asfallon zu retten.<br>Im nächsten Teil warten weitere spannende Aufgaben auf dich, Edvin, Bragi und Finja. <br>",
                 "button": "Weiter"
             }
@@ -192,9 +188,8 @@
             [],
             [],
             [],
-            [],
             {
-                "image": "https://contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+                "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
                 "text": "Bis zum nächsten Mal! <br>Du hast das Spiel mit Edvin, Bragi und Finja heute zum 3. mal gespielt. Vergiss nicht, es bald wieder zu spielen, um Edvin, Bragi und Finja zu helfen das Königreich Asfallon zu retten.<br>Im nächsten Teil warten weitere spannende Aufgaben auf dich, Edvin, Bragi und Finja. <br>",
                 "button": "Weiter"
             }
@@ -214,7 +209,6 @@
             []
         ],
         [
-            [],
             [],
             [],
             [],
@@ -238,7 +232,6 @@
             1,
             0,
             0,
-            0,
             0
         ]
     ],
@@ -259,8 +252,7 @@
             0,
             1,
             0,
-            0,
-            0
+            1
         ]
     ]
 }
