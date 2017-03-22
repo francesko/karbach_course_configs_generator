@@ -76,13 +76,13 @@ function fillInArray(array, val, maxSize) {
     array.push(val);
   }
 
-  array.forEach(function(item, index) {
+  for(var i = 0, len = array.length; i < len; i = i + 1) {
+    let item = array[i];
+
     if (item == null) {
-      console.log(item);
-      array[index] = val;
-      console.log(array[index]);
+      array[i] = val;
     }
-  });
+  }
 
   return array;
 }
@@ -173,6 +173,10 @@ function generateSession(config, rowList, session) {
         let index = row.type.contains('Pre') ? 0 : 1;
 
         config[rowName][sessionIndex][exerciseIndex][index] = getYoutubeId(row.video1Id);
+
+        if (index === 1 && config[rowName][sessionIndex][exerciseIndex][0] == null) {
+          config[rowName][sessionIndex][exerciseIndex][0] = '';
+        }
       } break;
 
       case 'StaticScreen':
