@@ -32,10 +32,7 @@ module.exports = {
 
   getExerciseConceptIdMap: function(rows) {
     return rows.reduce(function(memo, row) {
-      memo[row.name] = {
-        id: row.id,
-        conceptid: row.conceptid
-      };
+      memo[row.name] = row.conceptid;
 
       return memo;
     }, {});

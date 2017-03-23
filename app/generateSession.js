@@ -1,5 +1,5 @@
 var utils = require('./utils');
-var exerciseConceptIdMap = require('./exercisesConceptIdMap');
+var exercisesConceptIdMap = require('./exercisesConceptIdMap');
 
 const rowTypeToConfigMapping = {
   'StaticScreen': 'staticScreen',
@@ -20,7 +20,6 @@ module.exports = function(config, rowList, session) {
   var sessionIndex = session - 1;
   var exerciseIndex = 0;
 
-  config.games_plan[sessionIndex] = [];
   config.introVideos[sessionIndex] = [];
   config.tutorialVideos[sessionIndex] = [];
   config.staticScreen[sessionIndex] = [];
@@ -29,6 +28,8 @@ module.exports = function(config, rowList, session) {
   config.pseudoChoice[sessionIndex] = [];
   config.preEsScreen[sessionIndex] = [];
   config.postEsScreen[sessionIndex] = [];
+
+  var exercises = [];
 
   for(var i = 0; i < rows.length; i = i + 1) {
     let row = rows[i];
@@ -90,7 +91,11 @@ module.exports = function(config, rowList, session) {
       } break;
 
       case 'Exercise': {
-        config.games_map_names.push(row.exerciseName);
+        if (exercises.indexOf(row.exerciseName) === -1) {
+          config.games_map_names.push(row.exerciseName);
+          config.games_map.push(exercisesConceptIdMap[row.exerciseName]);
+          exercises.push(row.exerciseName);
+        }
       } break;
     }
 
@@ -117,4 +122,6 @@ module.exports = function(config, rowList, session) {
       utils.fillInArray(config[configSection][sessionIndex], val, maxExercises);
     }
   }
+
+  // config.games_plan[sessionIndex] = Array.apply(null, Array(config.games_map.legnth)).map(Number.prototype.valueOf, 0);
 }

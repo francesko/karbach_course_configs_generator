@@ -1,219 +1,93 @@
 {
   "games_map_names": [
     "Gonogo (Bücher)",
-    "Gonogo (Bücher)",
     "Stroop (Tiere)",
-    "Stroop (Tiere)",
-    "Flanker (ElfenKobolde)",
     "Flanker (ElfenKobolde)",
     "Gonogo (Drachen)",
-    "Gonogo (Drachen)",
-    "Stroop (Pflanzen)",
     "Stroop (Pflanzen)",
     "Flanker (ElfenKobolde)",
-    "Flanker (ElfenKobolde)",
-    "Gonogo (Bücher)",
     "Gonogo (Bücher)",
     "Stroop (Pflanzen)",
-    "Stroop (Pflanzen)",
-    "Flanker (Zauberstab)",
     "Flanker (Zauberstab)",
     "Gonogo (KarteSchlüssel)",
-    "Gonogo (KarteSchlüssel)",
-    "Stroop (Fabelwesen)",
     "Stroop (Fabelwesen)",
     "Flanker (Zauberstein)",
-    "Flanker (Zauberstein)",
     "Gonogo (Bücher)",
-    "Gonogo (Bücher)",
-    "Stroop (Tiere)",
     "Stroop (Tiere)",
     "Flanker (KoboldeElfen)",
-    "Flanker (KoboldeElfen)",
     "Gonogo (KarteSchlüssel)",
-    "Gonogo (KarteSchlüssel)",
-    "Stroop (Pflanzen)",
     "Stroop (Pflanzen)",
     "Flanker (Zauberstein)",
-    "Flanker (Zauberstein)",
-    "Gonogo (KarteSchlüssel)",
     "Gonogo (KarteSchlüssel)",
     "Stroop (Fabelwesen)",
-    "Stroop (Fabelwesen)",
-    "Flanker (Zauberstab)",
     "Flanker (Zauberstab)",
     "Gonogo (Drachen)",
-    "Gonogo (Drachen)",
-    "Stroop (Tiere)",
     "Stroop (Tiere)",
     "Flanker (Zauberstab)",
-    "Flanker (Zauberstab)",
     "Gonogo (KarteSchlüssel)",
-    "Gonogo (KarteSchlüssel)",
-    "Stroop (Pflanzen)",
     "Stroop (Pflanzen)",
     "Flanker (ElfenKobolde)",
-    "Flanker (ElfenKobolde)",
-    "Gonogo (KarteSchlüssel)",
     "Gonogo (KarteSchlüssel)",
     "Stroop (Tiere)",
-    "Stroop (Tiere)",
-    "Flanker (Zauberstab)",
     "Flanker (Zauberstab)",
     "Gonogo (Bücher)",
-    "Gonogo (Bücher)",
     "Stroop (Fabelwesen)",
-    "Stroop (Fabelwesen)",
-    "Flanker (Zauberstein)",
     "Flanker (Zauberstein)",
     "Gonogo (Drachen)",
-    "Gonogo (Drachen)",
-    "Stroop (Pflanzen)",
     "Stroop (Pflanzen)",
     "Flanker (Zauberstab)",
-    "Flanker (Zauberstab)",
-    "Gonogo (KarteSchlüssel)",
     "Gonogo (KarteSchlüssel)",
     "Stroop (Fabelwesen)",
-    "Stroop (Fabelwesen)",
-    "Flanker (Zauberstein)",
     "Flanker (Zauberstein)",
     "Gonogo (Bücher)",
-    "Gonogo (Bücher)",
     "Stroop (Fabelwesen)",
-    "Stroop (Fabelwesen)",
-    "Flanker (ElfenKobolde)",
     "Flanker (ElfenKobolde)"
   ],
-  "games_map": [],
-  "games_plan": [
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ]
+  "games_map": [
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDGONOGO2_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSTROOP2_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDFLANKER2_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDGONOGO1_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSTROOP1_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDFLANKER2_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDGONOGO2_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSTROOP1_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDFLANKER1_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDGONOGO_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSTROOP_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDFLANKER_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDGONOGO2_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSTROOP2_ID",
+    null,
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDGONOGO_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSTROOP1_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDFLANKER_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDGONOGO_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSTROOP_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDFLANKER1_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDGONOGO1_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSTROOP2_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDFLANKER1_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDGONOGO_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSTROOP1_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDFLANKER2_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDGONOGO_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSTROOP2_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDFLANKER1_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDGONOGO2_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSTROOP_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDFLANKER_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDGONOGO1_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSTROOP1_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDFLANKER1_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDGONOGO_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSTROOP_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDFLANKER_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDGONOGO2_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSTROOP_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDFLANKER2_ID"
   ],
+  "games_plan": [],
   "introVideos": [
     [
       [

@@ -1,219 +1,95 @@
 {
   "games_map_names": [
     "CTT (Zauberzubehör)",
-    "CTT (Zauberzubehör)",
-    "Task Switching Heterogen (Pflanzen)",
     "Task Switching Heterogen (Pflanzen)",
     "Dual Task Mixed Block (Elfe)",
-    "Dual Task Mixed Block (Elfe)",
-    "CTT (Karte)",
     "CTT (Karte)",
     "Task Switching Heterogen (ElfeKobold)",
-    "Task Switching Heterogen (ElfeKobold)",
-    "Dual Task Mixed Block (DracheTroll)",
     "Dual Task Mixed Block (DracheTroll)",
     "CTT (Zauberzubehör)",
-    "CTT (Zauberzubehör)",
-    "Task Switching Heterogen (Pflanzen)",
     "Task Switching Heterogen (Pflanzen)",
     "Dual Task Mixed Block (DracheTroll)",
-    "Dual Task Mixed Block (DracheTroll)",
-    "CTT (Karte)",
     "CTT (Karte)",
     "Task Switching Heterogen (ElfeKobold)",
-    "Task Switching Heterogen (ElfeKobold)",
-    "Dual Task Mixed Block (Zauberstein)",
     "Dual Task Mixed Block (Zauberstein)",
     "CTT (Fabelwesen)",
-    "CTT (Fabelwesen)",
-    "Task Switching Heterogen (Pflanzen)",
     "Task Switching Heterogen (Pflanzen)",
     "Dual Task Mixed Block (Elfe)",
-    "Dual Task Mixed Block (Elfe)",
-    "CTT (Karte)",
     "CTT (Karte)",
     "Task Switching Heterogen (Pflanzen)",
-    "Task Switching Heterogen (Pflanzen)",
     "Dual Task Mixed Block (Zauberstein)",
-    "Dual Task Mixed Block (Zauberstein)",
-    "CTT (Karte)",
     "CTT (Karte)",
     "Task Switching Heterogen (KoboldElfe)",
-    "Task Switching Heterogen (KoboldElfe)",
-    "Dual Task Mixed Block (DracheTroll)",
     "Dual Task Mixed Block (DracheTroll)",
     "CTT (Fabelwesen)",
-    "CTT (Fabelwesen)",
-    "Task Switching Heterogen (Pflanzen)",
     "Task Switching Heterogen (Pflanzen)",
     "Dual Task Mixed Block (DracheTroll)",
-    "Dual Task Mixed Block (DracheTroll)",
     "CTT (Karte)",
-    "CTT (Karte)",
-    "Task Switching Heterogen (Pflanzen)",
     "Task Switching Heterogen (Pflanzen)",
     "Dual Task Mixed Block (DracheTroll) ",
     "Dual Task Mixed Block (DracheTroll)",
     "CTT (Karte)",
-    "CTT (Karte)",
     "Task Switching Heterogen (DracheTroll)",
-    "Task Switching Heterogen (DracheTroll)",
-    "Dual Task Mixed Block (Elfe)",
     "Dual Task Mixed Block (Elfe)",
     "CTT (Fabelwesen)",
-    "CTT (Fabelwesen)",
-    "Task Switching Heterogen (DracheTroll)",
     "Task Switching Heterogen (DracheTroll)",
     "Dual Task Mixed Block (Elfe)",
-    "Dual Task Mixed Block (Elfe)",
-    "CTT (Zauberzubehör)",
     "CTT (Zauberzubehör)",
     "Task Switching Heterogen (Pflanzen)",
-    "Task Switching Heterogen (Pflanzen)",
-    "Dual Task Mixed Block (DracheTroll)",
     "Dual Task Mixed Block (DracheTroll)",
     "CTT (Karte)",
-    "CTT (Karte)",
-    "Task Switching Heterogen (ElfenKobolde)",
     "Task Switching Heterogen (ElfenKobolde)",
     "Dual Task Mixed Block (Zauberstein)",
-    "Dual Task Mixed Block (Zauberstein)",
-    "CTT (Zauberzubehör)",
     "CTT (Zauberzubehör)",
     "Dual Task Mixed Block (Zauberstein)",
-    "Dual Task Mixed Block (Zauberstein)",
-    "CTT (Fabelwesen)",
     "CTT (Fabelwesen)"
   ],
-  "games_map": [],
-  "games_plan": [
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ]
+  "games_map": [
+    null,
+    null,
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDDUALTASK5_ID",
+    null,
+    null,
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDDUALTASK1_ID",
+    null,
+    null,
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDDUALTASK1_ID",
+    null,
+    null,
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDDUALTASK3_ID",
+    null,
+    null,
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDDUALTASK5_ID",
+    null,
+    null,
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDDUALTASK3_ID",
+    null,
+    null,
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDDUALTASK1_ID",
+    null,
+    null,
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDDUALTASK1_ID",
+    null,
+    null,
+    null,
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDDUALTASK1_ID",
+    null,
+    null,
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDDUALTASK5_ID",
+    null,
+    null,
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDDUALTASK5_ID",
+    null,
+    null,
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDDUALTASK1_ID",
+    null,
+    null,
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDDUALTASK3_ID",
+    null,
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDDUALTASK3_ID",
+    null
   ],
+  "games_plan": [],
   "introVideos": [
     [
       [

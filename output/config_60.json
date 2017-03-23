@@ -1,219 +1,93 @@
 {
   "games_map_names": [
     "NBack (Zauberzubehör)",
+    "Serienmerker (Pflanzen)",
+    "Pfadfinder (Elfe)",
+    "NBack (Karte)",
+    "Serienmerker (Kobolde)",
+    "Pfadfinder (Zauberstab)",
     "NBack (Zauberzubehör)",
     "Serienmerker (Pflanzen)",
-    "Serienmerker (Pflanzen)",
-    "Pfadfinder (Elfe)",
-    "Pfadfinder (Elfe)",
-    "NBack (Karte)",
-    "NBack (Karte)",
-    "Serienmerker (Kobolde)",
-    "Serienmerker (Kobolde)",
-    "Pfadfinder (Zauberstab)",
-    "Pfadfinder (Zauberstab)",
-    "NBack (Zauberzubehör)",
-    "NBack (Zauberzubehör)",
-    "Serienmerker (Pflanzen)",
-    "Serienmerker (Pflanzen)",
-    "Pfadfinder (Zauberstab)",
     "Pfadfinder (Zauberstab)",
     "NBack (Karte)",
-    "NBack (Karte)",
-    "Serienmerker (Kobolde)",
     "Serienmerker (Kobolde)",
     "Pfadfinder (Zauberstein)",
-    "Pfadfinder (Zauberstein)",
     "NBack (Fabelwesen)",
-    "NBack (Fabelwesen)",
-    "Serienmerker (Pflanzen)",
     "Serienmerker (Pflanzen)",
     "Pfadfinder (Elfe)",
-    "Pfadfinder (Elfe)",
     "NBack (Karte)",
-    "NBack (Karte)",
-    "Serienmerker (Pflanzen)",
     "Serienmerker (Pflanzen)",
     "Pfadfinder (Zauberstein)",
-    "Pfadfinder (Zauberstein)",
-    "NBack (Karte)",
     "NBack (Karte)",
     "Serienmerker (Kobolde)",
-    "Serienmerker (Kobolde)",
-    "Pfadfinder (Zauberstab)",
     "Pfadfinder (Zauberstab)",
     "NBack (Fabelwesen)",
-    "NBack (Fabelwesen)",
     "Serienmerker (Pflanzen)",
-    "Serienmerker (Pflanzen)",
-    "Pfadfinder (Zauberstab)",
     "Pfadfinder (Zauberstab)",
     "NBack (Karte)",
-    "NBack (Karte)",
-    "Serienmerker (Pflanzen)",
     "Serienmerker (Pflanzen)",
     "Pfadfinder (Zauberstab)",
-    "Pfadfinder (Zauberstab)",
-    "NBack (Karte)",
     "NBack (Karte)",
     "Serienmerker (Drachen)",
-    "Serienmerker (Drachen)",
-    "Pfadfinder (Elfe)",
     "Pfadfinder (Elfe)",
     "NBack (Fabelwesen)",
-    "NBack (Fabelwesen)",
-    "Serienmerker (Drachen)",
     "Serienmerker (Drachen)",
     "Pfadfinder (Elfe)",
-    "Pfadfinder (Elfe)",
-    "NBack (Zauberzubehör)",
     "NBack (Zauberzubehör)",
     "Serienmerker (Pflanzen)",
-    "Serienmerker (Pflanzen)",
-    "Pfadfinder (Zauberstab)",
     "Pfadfinder (Zauberstab)",
     "NBack (Karte)",
-    "NBack (Karte)",
-    "Serienmerker (Kobolde)",
     "Serienmerker (Kobolde)",
     "Pfadfinder (Zauberstein)",
-    "Pfadfinder (Zauberstein)",
-    "NBack (Zauberzubehör)",
     "NBack (Zauberzubehör)",
     "Pfadfinder (Zauberstein)",
-    "Pfadfinder (Zauberstein)",
-    "NBack (Fabelwesen)",
     "NBack (Fabelwesen)"
   ],
-  "games_map": [],
-  "games_plan": [
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ],
-    [
-      [],
-      [],
-      [],
-      []
-    ]
+  "games_map": [
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSOUNDNBACK3_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDOSPAN1_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDPATHFINDER2_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSOUNDNBACK_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDOSPAN_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDPATHFINDER1_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSOUNDNBACK3_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDOSPAN1_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDPATHFINDER1_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSOUNDNBACK_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDOSPAN_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDPATHFINDER_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSOUNDNBACK1_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDOSPAN1_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDPATHFINDER2_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSOUNDNBACK_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDOSPAN1_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDPATHFINDER_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSOUNDNBACK_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDOSPAN_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDPATHFINDER1_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSOUNDNBACK1_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDOSPAN1_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDPATHFINDER1_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSOUNDNBACK_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDOSPAN1_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDPATHFINDER1_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSOUNDNBACK_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDOSPAN2_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDPATHFINDER2_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSOUNDNBACK1_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDOSPAN2_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDPATHFINDER2_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSOUNDNBACK3_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDOSPAN1_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDPATHFINDER1_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSOUNDNBACK_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDOSPAN_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDPATHFINDER_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSOUNDNBACK3_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDPATHFINDER_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSOUNDNBACK1_ID"
   ],
+  "games_plan": [],
   "introVideos": [
     [
       [
