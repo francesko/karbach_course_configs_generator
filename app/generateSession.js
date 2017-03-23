@@ -109,21 +109,6 @@ module.exports = function(config, rowList, session) {
     if (row.flowEnd) {
       exerciseIndex = exerciseIndex + 1;
     }
-
-    // // increase exercise index and fill in entries for missing screens
-    // if (previousExerciseIndex != exerciseIndex) {
-    //   for(let configSection in config) {
-    //     if (config.hasOwnProperty(configSection) && !config[configSection][sessionIndex][exerciseIndex]) {
-    //       let val = [];
-
-    //       if (configSection.contains('EsScreen')) {
-    //         val = 0;
-    //       }
-
-    //       config[configSection][sessionIndex][exerciseIndex] = val;
-    //     }
-    //   }
-    // }
   }
 
   // ensure that all config sections have an entry for each exercise
