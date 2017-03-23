@@ -2,9 +2,8 @@ var fs = require('fs');
 var Row = require('./Row');
 var RowList = require('./RowList');
 var generateSession = require('./generateSession');
-var configPath = './output/config.json';
 
-module.exports = function(rows, totalSessions) {
+module.exports = function(rows, totalSessions, outputPath) {
   var rowList = new RowList();
 
   rows.forEach(function(rowData) {
@@ -33,7 +32,7 @@ module.exports = function(rows, totalSessions) {
     generateSession(config, rowList, i);
   }
 
-  fs.writeFile(configPath, JSON.stringify(config, null, 2).replace(/https:\/\//g, 'https:\\/\\/'), function (err) {
+  fs.writeFile(outputPath, JSON.stringify(config, null, 2).replace(/https:\/\//g, 'https:\\/\\/'), function (err) {
     if (err) return console.log(err);
   });
 };

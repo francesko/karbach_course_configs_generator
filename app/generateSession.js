@@ -1,19 +1,5 @@
 var utils = require('./utils');
 
-const screenFlow = [
-  'StaticScreen',
-  'IntroVideo',
-  'PreES',
-  'PseudoChoice',
-  'PreESVideo',
-  'Exercise',
-  'StaticScreen2',
-  'PostES',
-  'PostESVideo',
-  'Questionnaire',
-  'StaticScreen3'
-];
-
 const rowTypeToConfigMapping = {
   'StaticScreen': 'staticScreen',
   'IntroVideo': 'introVideos',
