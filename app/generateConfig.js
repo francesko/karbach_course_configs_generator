@@ -15,9 +15,9 @@ module.exports = function(rows, totalSessions, outputPath) {
   });
 
   var config = {
-    // games_map_names: [],
-    // games_map: [],
-    // games_plan: [],
+    games_map_names: [],
+    games_map: [],
+    games_plan: [],
     introVideos: [],
     tutorialVideos: [],
     staticScreen: [],

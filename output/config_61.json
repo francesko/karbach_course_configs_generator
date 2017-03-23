@@ -1,89 +1,89 @@
 {
   "games_map_names": [
-    "NBack (Zauberzubehör)",
-    "NBack (Zauberzubehör)",
-    "Serienmerker (Pflanzen)",
-    "Serienmerker (Pflanzen)",
-    "Pfadfinder (Elfe)",
-    "Pfadfinder (Elfe)",
-    "NBack (Karte)",
-    "NBack (Karte)",
-    "Serienmerker (Kobolde)",
-    "Serienmerker (Kobolde)",
-    "Pfadfinder (Zauberstab)",
-    "Pfadfinder (Zauberstab)",
-    "NBack (Zauberzubehör)",
-    "NBack (Zauberzubehör)",
-    "Serienmerker (Pflanzen)",
-    "Serienmerker (Pflanzen)",
-    "Pfadfinder (Zauberstab)",
-    "Pfadfinder (Zauberstab)",
-    "NBack (Karte)",
-    "NBack (Karte)",
-    "Serienmerker (Kobolde)",
-    "Serienmerker (Kobolde)",
-    "Pfadfinder (Zauberstein)",
-    "Pfadfinder (Zauberstein)",
-    "NBack (Fabelwesen)",
-    "NBack (Fabelwesen)",
-    "Serienmerker (Pflanzen)",
-    "Serienmerker (Pflanzen)",
-    "Pfadfinder (Elfe)",
-    "Pfadfinder (Elfe)",
-    "NBack (Karte)",
-    "NBack (Karte)",
-    "Serienmerker (Pflanzen)",
-    "Serienmerker (Pflanzen)",
-    "Pfadfinder (Zauberstein)",
-    "Pfadfinder (Zauberstein)",
-    "NBack (Karte)",
-    "NBack (Karte)",
-    "Serienmerker (Kobolde)",
-    "Serienmerker (Kobolde)",
-    "Pfadfinder (Zauberstab)",
-    "Pfadfinder (Zauberstab)",
-    "NBack (Fabelwesen)",
-    "NBack (Fabelwesen)",
-    "Serienmerker (Pflanzen)",
-    "Serienmerker (Pflanzen)",
-    "Pfadfinder (Zauberstab)",
-    "Pfadfinder (Zauberstab)",
-    "NBack (Karte)",
-    "NBack (Karte)",
-    "Serienmerker (Pflanzen)",
-    "Serienmerker (Pflanzen)",
-    "Pfadfinder (Zauberstab)",
-    "Pfadfinder (Zauberstab)",
-    "NBack (Karte)",
-    "NBack (Karte)",
-    "Serienmerker (Drachen)",
-    "Serienmerker (Drachen)",
-    "Pfadfinder (Elfe)",
-    "Pfadfinder (Elfe)",
-    "NBack (Fabelwesen)",
-    "NBack (Fabelwesen)",
-    "Serienmerker (Drachen)",
-    "Serienmerker (Drachen)",
-    "Pfadfinder (Elfe)",
-    "Pfadfinder (Elfe)",
-    "NBack (Zauberzubehör)",
-    "NBack (Zauberzubehör)",
-    "Serienmerker (Pflanzen)",
-    "Serienmerker (Pflanzen)",
-    "Pfadfinder (Zauberstab)",
-    "Pfadfinder (Zauberstab)",
-    "NBack (Karte)",
-    "NBack (Karte)",
-    "Serienmerker (Kobolde)",
-    "Serienmerker (Kobolde)",
-    "Pfadfinder (Zauberstein)",
-    "Pfadfinder (Zauberstein)",
-    "NBack (Zauberzubehör)",
-    "NBack (Zauberzubehör)",
-    "Pfadfinder (Zauberstein)",
-    "Pfadfinder (Zauberstein)",
-    "NBack (Fabelwesen)",
-    "NBack (Fabelwesen)"
+    "Gonogo (Bücher)",
+    "Gonogo (Bücher)",
+    "Stroop (Tiere)",
+    "Stroop (Tiere)",
+    "Flanker (ElfenKobolde)",
+    "Flanker (ElfenKobolde)",
+    "Gonogo (Drachen)",
+    "Gonogo (Drachen)",
+    "Stroop (Pflanzen)",
+    "Stroop (Pflanzen)",
+    "Flanker (ElfenKobolde)",
+    "Flanker (ElfenKobolde)",
+    "Gonogo (Bücher)",
+    "Gonogo (Bücher)",
+    "Stroop (Pflanzen)",
+    "Stroop (Pflanzen)",
+    "Flanker (Zauberstab)",
+    "Flanker (Zauberstab)",
+    "Gonogo (KarteSchlüssel)",
+    "Gonogo (KarteSchlüssel)",
+    "Stroop (Fabelwesen)",
+    "Stroop (Fabelwesen)",
+    "Flanker (Zauberstein)",
+    "Flanker (Zauberstein)",
+    "Gonogo (Bücher)",
+    "Gonogo (Bücher)",
+    "Stroop (Tiere)",
+    "Stroop (Tiere)",
+    "Flanker (KoboldeElfen)",
+    "Flanker (KoboldeElfen)",
+    "Gonogo (KarteSchlüssel)",
+    "Gonogo (KarteSchlüssel)",
+    "Stroop (Pflanzen)",
+    "Stroop (Pflanzen)",
+    "Flanker (Zauberstein)",
+    "Flanker (Zauberstein)",
+    "Gonogo (KarteSchlüssel)",
+    "Gonogo (KarteSchlüssel)",
+    "Stroop (Fabelwesen)",
+    "Stroop (Fabelwesen)",
+    "Flanker (Zauberstab)",
+    "Flanker (Zauberstab)",
+    "Gonogo (Drachen)",
+    "Gonogo (Drachen)",
+    "Stroop (Tiere)",
+    "Stroop (Tiere)",
+    "Flanker (Zauberstab)",
+    "Flanker (Zauberstab)",
+    "Gonogo (KarteSchlüssel)",
+    "Gonogo (KarteSchlüssel)",
+    "Stroop (Pflanzen)",
+    "Stroop (Pflanzen)",
+    "Flanker (ElfenKobolde)",
+    "Flanker (ElfenKobolde)",
+    "Gonogo (KarteSchlüssel)",
+    "Gonogo (KarteSchlüssel)",
+    "Stroop (Tiere)",
+    "Stroop (Tiere)",
+    "Flanker (Zauberstab)",
+    "Flanker (Zauberstab)",
+    "Gonogo (Bücher)",
+    "Gonogo (Bücher)",
+    "Stroop (Fabelwesen)",
+    "Stroop (Fabelwesen)",
+    "Flanker (Zauberstein)",
+    "Flanker (Zauberstein)",
+    "Gonogo (Drachen)",
+    "Gonogo (Drachen)",
+    "Stroop (Pflanzen)",
+    "Stroop (Pflanzen)",
+    "Flanker (Zauberstab)",
+    "Flanker (Zauberstab)",
+    "Gonogo (KarteSchlüssel)",
+    "Gonogo (KarteSchlüssel)",
+    "Stroop (Fabelwesen)",
+    "Stroop (Fabelwesen)",
+    "Flanker (Zauberstein)",
+    "Flanker (Zauberstein)",
+    "Gonogo (Bücher)",
+    "Gonogo (Bücher)",
+    "Stroop (Fabelwesen)",
+    "Stroop (Fabelwesen)",
+    "Flanker (ElfenKobolde)",
+    "Flanker (ElfenKobolde)"
   ],
   "games_map": [],
   "games_plan": [
@@ -217,7 +217,7 @@
   "introVideos": [
     [
       [
-        "eF5jucZIpDE"
+        "o4FAMQfbTu0"
       ],
       [],
       [],
@@ -225,7 +225,7 @@
     ],
     [
       [
-        "SodQv8HS3tQ"
+        "CjlHv8T8C9o"
       ],
       [],
       [],
@@ -233,7 +233,7 @@
     ],
     [
       [
-        "Qmbs-5KDF20"
+        "FOIJyL2o524"
       ],
       [],
       [],
@@ -241,7 +241,7 @@
     ],
     [
       [
-        "72XIuZcRu1w"
+        "7t0SjmFJqrY"
       ],
       [],
       [],
@@ -249,7 +249,7 @@
     ],
     [
       [
-        "O9HnM49rWHI"
+        "99HHZOjc7gQ"
       ],
       [],
       [],
@@ -257,7 +257,7 @@
     ],
     [
       [
-        "V5_PLfnpOKw"
+        "4T9CaaIz41w"
       ],
       [],
       [],
@@ -265,7 +265,7 @@
     ],
     [
       [
-        "-XppHFZxVXQ"
+        "yjDzGu19F1Q"
       ],
       [],
       [],
@@ -273,7 +273,7 @@
     ],
     [
       [
-        "bxvQta7P2uk"
+        "BG4zpHW0opI"
       ],
       [],
       [],
@@ -281,7 +281,7 @@
     ],
     [
       [
-        "iQvaRl9U0rQ"
+        "KQJnm3sdI3I"
       ],
       [],
       [],
@@ -289,7 +289,7 @@
     ],
     [
       [
-        "4w5vbGm4sv8"
+        "xle45E-bPiM"
       ],
       [],
       [],
@@ -297,7 +297,7 @@
     ],
     [
       [
-        "GsOm2tnhNT4"
+        "yrSMGnrWrDU"
       ],
       [],
       [],
@@ -305,7 +305,7 @@
     ],
     [
       [
-        "RPPuasV-_Fs"
+        "cNWgx7axU2w"
       ],
       [],
       [],
@@ -313,7 +313,7 @@
     ],
     [
       [
-        "PKK35b0Kh7E"
+        "Ng-G5_yfXIo"
       ],
       [],
       [],
@@ -321,7 +321,7 @@
     ],
     [
       [
-        "9wR3qx58V_E"
+        "B43QxhvD_Zk"
       ],
       [],
       [],
@@ -329,7 +329,7 @@
     ],
     [
       [
-        "kUW4dn7MOio"
+        "NF6NLcDgUGk"
       ],
       [],
       [],
@@ -337,7 +337,7 @@
     ],
     [
       [
-        "Cts_vfU-yoc"
+        "pAmvoTjBUTI"
       ],
       [],
       [],
@@ -345,7 +345,7 @@
     ],
     [
       [
-        "gbkUe4XdvmY"
+        "7SQSU_BXeH0"
       ],
       [],
       [],
@@ -353,7 +353,7 @@
     ],
     [
       [
-        "ECJjyiCjJYY"
+        "vFh7IfIRhJg"
       ],
       [],
       [],
@@ -361,7 +361,7 @@
     ],
     [
       [
-        "0TMLhmKKIX4"
+        "FFkTK0qbMBU"
       ],
       [],
       [],
@@ -369,7 +369,7 @@
     ],
     [
       [
-        "t5vj8JsxoN4"
+        "6so0__pX_Ug"
       ],
       [],
       [],
@@ -377,7 +377,7 @@
     ],
     [
       [
-        "KU2eVskcCfY"
+        "tlxkWgtxzUo"
       ],
       [],
       [],
@@ -389,269 +389,271 @@
       [],
       [],
       [
-        "90Rom-5SJX4"
+        "PExaq9HvEmI"
       ],
       [
         "",
-        "_FQhW50LG_E"
+        "t4w1W2SwclU"
       ]
     ],
     [
       [
-        "WOOzTv9fL5Q"
+        "ynF2722fCmU"
       ],
       [],
       [
-        "jLSAIOKlihk"
+        "",
+        "R08mreY7DY8"
       ],
       [
         "",
-        "PDoMuvYlDU4"
+        "kYeW-s9YWrE"
       ]
     ],
     [
       [
-        "hn73A27gKpM"
+        "",
+        "DNjC3Bj1KKM"
       ],
       [],
       [
-        "SAmXwT3gZOs"
+        "uPCx3GBS7Ok"
       ],
       [
         "",
-        "sNMyeSySKvw"
+        "jOtz7WN93-0"
       ]
     ],
     [
       [
-        "fSiT1cAB2r4"
+        "hmSwWQ5CpTA"
       ],
       [],
       [
-        "IPVYta0LPPM"
+        "zHCW8DK_1so"
       ],
       [
         "",
-        "Ag-9Zf2aJ54"
+        "q2zHvXpWmJ0"
       ]
     ],
     [
       [
-        "_zwf1GfR1XY"
+        "P5LhXKoLHHg"
       ],
       [],
       [
-        "x36Hf8uxQOk"
+        "VwA_pSEDG50"
       ],
       [
         "",
-        "g42w6ixmktw"
+        "swfM2wVwIK0"
       ]
     ],
     [
       [
-        "at3HgeqtqDY"
+        "rf0CsHPfB9g"
       ],
       [],
       [
-        "T0ryLWkOk00"
+        "wV-lUIovOQQ"
       ],
       [
         "",
-        "dglDc5UdNys"
+        "kKa8AbeT-WU"
       ]
     ],
     [
       [
-        "UGRFXMi4V5w"
+        "X0undKQtxzM"
       ],
       [],
       [
-        "OK43_hV-Hu4"
+        "GJmtnBmDtIE"
       ],
       [
         "",
-        "Tzy6idQjhuE"
+        "I2dnk8I_xKw"
       ]
     ],
     [
       [
-        "gTFezhsVlH8"
+        "Ph2AACmkYHA"
       ],
       [],
       [
-        "5jTbEpoyfHg"
+        "FOvE_guaDOw"
       ],
       [
         "",
-        "vigOFbKI0d0"
+        "zsQN6_Opom0"
       ]
     ],
     [
       [
-        "_1Vt1KC4cIg"
+        "Z2EU75eokN0"
       ],
       [],
       [
-        "Sb8HkWmDHfU"
+        "HtkA2nL5MvI"
       ],
       [
         "",
-        "A8SNYP1mz5g"
+        "rUOEiAeTvZY"
       ]
     ],
     [
       [
-        "BeFlanIXisQ"
+        "Z2hZpHKhorE"
       ],
       [],
       [
-        "wXttLGFSQ5A"
+        "fbbhZAzk9X0"
       ],
       [
         "",
-        "wLgazvEADUY"
+        "f9khfvLgOrs"
       ]
     ],
     [
       [],
       [],
       [
-        "fdEjXT5L4V8"
+        "UefBB9ZF8pU"
       ],
       [
         "",
-        "88fav-LduWs"
+        "ct_EHKaM9-E"
       ]
     ],
     [
       [
-        "2wN9DHG6DWY"
+        "kE0o3jUWtY0"
       ],
       [],
-      [
-        "NHkyRrcz-Xg"
-      ],
+      [],
+      [],
       [
         "",
-        "bfmGylzVzq4"
+        "T-bDgfViNao"
       ]
     ],
     [
       [
-        "t0UG1FpRFEE"
+        "y2IQi3Ftehs"
       ],
       [],
       [
-        "wl2_mMIjSeE"
+        "FQJqMngc2yk"
       ],
       [
         "",
-        "aFdINMXhcdA"
+        "LlMXjr_SoYk"
       ]
     ],
     [
       [
-        "feXe6DL70jI"
+        "kFTPRYQmyKs"
       ],
       [],
       [
-        "MDiROm0f56E"
+        "6Q0MGqLK_j0"
       ],
       [
         "",
-        "n9a96R1Vsc4"
+        "_5XeWmLRB1U"
       ]
     ],
     [
       [
-        "EFsXQ31aLRk"
+        "pNVfF3ms4ks"
       ],
       [],
       [
-        "NXr6RrZ3g_k"
+        "Wnh-UP8ZYsU"
       ],
       [
         "",
-        "5BW-lSUSLTo"
+        "QzWJg1aulJI"
       ]
     ],
     [
       [
-        "Vr3DUG7e7Io"
+        "spNTG_tRIzQ"
       ],
       [],
       [
-        "mMNkYr_ywk8"
+        "cxuj0bbaxBE"
       ],
       [
         "",
-        "C06ALXHgL6E"
+        "-97eVtKEEQM"
       ]
     ],
     [
       [
-        "NPqC0ZafAQM"
+        "FQHB6o7kBRM"
       ],
       [],
       [
-        "E4nhHvkEO3M"
+        "niq2BEOjXDM"
       ],
       [
         "",
-        "TYzOSB6uigw"
+        "XpLy7ZDmrno"
       ]
     ],
     [
       [
-        "R1kH4f31HUY"
+        "F1bsNzS5xMg"
       ],
       [],
       [
-        "ohR6pRs2fxU"
+        "UW685T7-MkI"
       ],
       [
         "",
-        "pnijPh9z2EQ"
+        "h5J3uLqEBN0"
       ]
     ],
     [
       [
-        "UJ2J1GarwoA"
+        "O043iIh8f5M"
       ],
       [],
       [
-        "V7PFsn58HcA"
+        "VR2XzccDo3I"
       ],
       [
         "",
-        "52Q1Q3ba3y4"
+        "sG7eNL4Gfbk"
       ]
     ],
     [
       [
-        ""
+        "NZlYhXwghgQ"
       ],
       [],
       [
-        "jFwkOEY7zRs"
+        "c-Gx66RuNi0"
       ],
       [
         "",
-        "976fZRwGbnA"
+        "UecHaRW2CeU"
       ]
     ],
     [
       [
-        "5_UfR03iXOg"
+        "_nMaqWdPhHk"
       ],
       [],
       [
-        "VcN52mMBK0E"
+        "",
+        "KYecfhlJ1mk"
       ],
       [
         "",
-        "hYq3tR25nXM"
+        "N_bPnirDMW0"
       ]
     ]
   ],
@@ -848,11 +850,7 @@
         "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 20. mal und sollst es insgesamt 21 mal spielen.<br>Bitte setze zuerst deine Kopfhörer auf, oder schalte deine Lautsprecher an, um mit dem nächsten Teil des Spiels zu beginnen.<br><br>Wenn du die ganze Geschichte noch einmal hören möchtest, klicke auf „nochmal anhören“<br>Wenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“<br>",
         "button": "Weiter"
       },
-      {
-        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Jupiterstein6",
-        "text": "Edvin, Bragi und Finja haben das letzte Bruchstück des Jupitersteins gefangen. Jetzt können sie alle Teile zusammensetzen.<br><br>",
-        "button": "Weiter"
-      },
+      [],
       [],
       []
     ],
@@ -871,22 +869,22 @@
     [
       {
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Haus.jpg",
-        "text": "Edvins Zaubereihilfsmittel sind noch nicht geordnet.<br>Das Spiel geht genauso weiter.",
+        "text": "Edvin hat noch nicht alle Bücher für die Reise gefunden. Hilf ihm weiterhin dabei die Bücher zu sortieren!<br><br>Das Spiel geht genauso weiter.",
         "button": "Weiter"
       },
       {
-        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/AG_nback_zauberzubehör.jpg",
-        "text": "Du hast Edvin geholfen seine Zauberhilfsmittel für die Reise zu ordnen und einzupacken. Jetzt kann die Reise losgehen.",
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Inhibition_gonogo_bücher",
+        "text": "Du hast Edvin geholfen seine Bücher für die Reise zu packen. Jetzt kann es losgehen!<br><br>",
         "button": "Weiter"
       },
       {
-        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Pflanzensammeln.jpg",
-        "text": "Edvin hat noch nicht alle Pflanzen gesammelt. Hilf ihm weiterhin dabei!<br>Das Spiel geht genauso weiter.",
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Bragiverzaubert2.jpg",
+        "text": "Einige Tiere sind immer noch verzaubert. Hilf Edvin weiterhin dabei die Tiere zu entzaubern!<br><br><br>Das Spiel geht genauso weiter.",
         "button": "Weiter"
       },
       {
-        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Pflanzensammeln3.jpg",
-        "text": "Edvin und Finja haben alle Zutaten für die Zaubertränke gesammelt!",
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Inhibition_stroop_tiere.jpg",
+        "text": "Bragi und die anderen Tiere sind zurückverwandelt!",
         "button": "Weiter"
       }
     ],
@@ -902,52 +900,52 @@
         "button": "Weiter"
       },
       {
-        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/EdvinKarte.jpg",
-        "text": "Die verzauberte Karte ist noch nicht geöffnet. Hilf Edvin weiterhin das Rätsel zu lösen, um die Karte zu öffnen.<br>Das Spiel geht genauso weiter.",
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Drachen1.jpg",
+        "text": "Einige Drachen sind noch nicht erstarrt und wollen Edvin, Bragi und Finja fressen. Hilf Edvin weiterhin dabei die Drachen erstarren zu lassen!<br><br><br>Das Spiel geht genauso weiter.",
         "button": "Weiter"
       },
       {
-        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Karte29",
-        "text": "Du hast Edvin geholfen die verzauberte Karte zu öffnen! Jetzt können die drei nachsehen, wo das erste Bruchstück des Jupitersteins versteckt ist.",
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Dracheerstarrt.jpg",
+        "text": "Die bösen Drachen sind erstarrt! Jetzt kann die Reise weitergehen.",
         "button": "Weiter"
       }
     ],
     [
       {
-        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
-        "text": "Edvin hat noch nicht alle Kobolde verjagt. Hilf ihm weiterhin dabei!<br>Das Spiel geht genauso weiter.<br>",
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Pflanzensammeln2.jpg",
+        "text": "Edvin hat noch nicht alle Pflanzen, die er für die Zaubertränke braucht, gesammelt. Hilf Edvin weiter die Pflanzen zu sammeln!<br><br><br>Das Spiel geht genauso weiter.<br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Pflanzensammeln3.jpg",
+        "text": "Edvin hat alle Pflanzen gesammelt und kann jetzt seine Zaubertränke brauen!<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Kobolde.jpg",
+        "text": "Die Kobolde greifen immer noch an! Hilf Edvin weiterhin dabei die Kobolde zu bekämpfen.<br><br><br>Das Spiel geht genauso weiter.",
         "button": "Weiter"
       },
       {
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Kobolde2",
-        "text": "Edvin, Bragi und Finja haben alle Kobolde mit Zauberei bekämpft!",
-        "button": "Weiter"
-      },
-      {
-        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Labyrinthdunkel.jpg",
-        "text": "Edvin und Bragi irren immer noch im dunklen Wald umher. Hilf ihnen den Weg zu finden.<br>Das Spiel geht genauso weiter.",
-        "button": "Weiter"
-      },
-      {
-        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Karte7",
-        "text": "Edvin, Bragi und Finja haben mit deiner Hilfe den Weg aus dem dunklen Wald gefunden! Am nächsten Morgen kann die Reise weitergehen!",
+        "text": "Edvin, Bragi und Finja haben alle Kobolde bekämpft! Jetzt können sie weiter zum Kupfergebirge gehen.<br><br>",
         "button": "Weiter"
       }
     ],
     [
       {
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Brücke",
-        "text": "Der Zauber, mit dem die Brücke repariert werden soll, ist noch nicht fertig. Hilf Edvin weiterhin dabei.",
+        "text": "Edvin hat den richtigen Zauberspruch noch nicht gefunden! Hilf ihm weiterhin in den Büchern zu suchen.<br>Das Spiel geht genauso weiter.<br><br>",
         "button": "Weiter"
       },
       {
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Brückerepariert.jpg",
-        "text": "Du hast Edvin geholfen die Brücke mit einem Zauber zu reparieren. Jetzt können Edvin, Bragi und Finja den Fluss überqueren.",
+        "text": "Edvin hat den passenden Zauberspruch gefunden und die Brücke repariert!<br><br>",
         "button": "Weiter"
       },
       {
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Einganglabyrinth.jpg",
-        "text": "Das Tor ist noch nicht geöffnet! Hilf Edvin weiterhin, die Pflanzen am Eingang zu entzaubern.",
+        "text": "Das Tor ist noch nicht geöffnet! Hilf Edvin weiterhin, die Pflanzen am Eingang zu entzaubern.<br>Das Spiel geht genauso weiter.",
         "button": "Weiter"
       },
       {
@@ -990,8 +988,8 @@
         "button": "Weiter"
       },
       {
-        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Jupiterstein9.jpg",
-        "text": "Edvin, Bragi und Finja haben den Jupiterstein noch nicht gefangen.<br>Das Spiel geht genauso weiter.",
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Jupiterstein5.jpg",
+        "text": "Edvin, Bragi und Finja wissen noch nicht, welches Bruchstück zu dem echten Jupiterstein gehört. Hilf Ihnen weiterhin dabei, den echten Jupiterstein zu finden.<br><br>Das Spiel geht genauso weiter.",
         "button": "Weiter"
       },
       {
@@ -1003,17 +1001,17 @@
     [
       {
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Inhibition_gonogo_bücher.jpg",
-        "text": "Edvin hat noch nicht alle Zaubersprüche gelernt, um sich gegen Kobolde, Trolle, böse Elfen und Drachen zu verteidigen.<br>Das Spiel geht genauso weiter.",
+        "text": "Die Bücher sind immer noch nass. Hilf Edvin dabei die Zauberbücher zu retten!<br><br>Das Spiel geht genauso weiter.",
         "button": "Weiter"
       },
       {
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Inhibition_gonogo_bücher.jpg",
-        "text": "Edvin hat viele neue Zaubersprüche gelernt.",
+        "text": "Die Bücher sind wieder trocken. Jetzt kann Edvin wieder Zaubersprüche lernen.<br>",
         "button": "Weiter"
       },
       {
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Bragiverzaubert3.jpg",
-        "text": "Bragi ist noch immer nicht zurückverwandelt. Hilf Edvin weiter dabei die Zutaten für einen Zaubertrank zu finden!<br>Das Spiel geht genauso weiter.",
+        "text": "Bragi ist noch nicht zurück verwandelt. Hilf Edvin weiterhin ihn wieder zu einem Esel zu machen!<br><br>Das Spiel geht genauso weiter.",
         "button": "Weiter"
       },
       {
@@ -1024,13 +1022,13 @@
     ],
     [
       {
-        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/EdvinZauberwald.jpg",
-        "text": "Edvin und Bragi irren immer noch im Zauberwald umher. Hilf ihnen den Weg zu finden.<br>Das Spiel geht genauso weiter. ",
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Kobolde.jpg",
+        "text": "Die Kobolde sind immer noch da! Versuche weiterhin Edvin zu helfen, die Kobolde zu verjagen.<br><br><br>Das Spiel geht genauso weiter. ",
         "button": "Weiter"
       },
       {
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Kobolde2.jpg",
-        "text": "Edvin, Bragi und Finja haben mit deiner Hilfe den Weg gefunden und sind jetzt in der Mitte des Zauberwaldes!",
+        "text": "Die Kobolde wurden verzaubert und vertrieben! Edvin, Bragi und Finja sind frei und können weitergehen!<br><br>",
         "button": "Weiter"
       },
       {
@@ -1056,8 +1054,8 @@
         "button": "Weiter"
       },
       {
-        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Regenbogen2.jpg",
-        "text": "Edvin hat den Zauberstein noch nicht gefangen. Hilf ihm weiterhin den Zauberstein zu fangen, um ihn mitnehmen zu können.<br>Das Spiel geht genauso weiter. ",
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Regenbogen.jpg",
+        "text": "Hilf Edvin, Bragi und Finja weiterhin das echte Bruchstück des Jupitersteins zu finden.<br><br>Das Spiel geht genauso weiter. ",
         "button": "Weiter"
       },
       {
@@ -1105,24 +1103,25 @@
         "button": "Weiter"
       },
       {
-        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
-        "text": "Bis zum nächsten Mal! <br>Du hast das Spiel mit Edvin, Bragi und Finja heute zum 11. mal gespielt. Vergiss nicht, es bald wieder zu spielen, um Edvin, Bragi und Finja zu helfen das Königreich Asfallon zu retten.<br>Im nächsten Teil warten weitere spannende Aufgaben auf dich, Edvin, Bragi und Finja. <br>",
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Dorf.jpg",
+        "text": "Die Drachen treten die Flucht an und verlassen das Dorf.",
         "button": "Weiter"
       }
     ],
     [
       {
-        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/See2.jpg",
-        "text": "Bragi ist immer noch seekrank! Das Spiel geht genauso weiter.",
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/DorfTiere.jpg",
+        "text": "Einige Tiere laufen immer noch frei umher. Hilf Edvin weiterhin sie einzufangen!<br><br> Das Spiel geht genauso weiter.",
         "button": "Weiter"
       },
       {
-        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/See3.jpg",
-        "text": "Bragi geht es wieder gut!",
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Dorf.jpg",
+        "text": "Alle Tiere wurden eingefangen und an ihre überglückliche Besitzerin zurückgegeben!<br><br>",
         "button": "Weiter"
       },
+      [],
       {
-        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/See4.jpg",
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/See.jpg",
         "text": "Edvin, Bragi und Finja haben das Ufer noch nicht erreicht. Hilf ihnen weiterhin den Weg durch die Felsen zu finden.<br>Das Spiel geht genauso weiter.",
         "button": "Weiter"
       },
@@ -1178,17 +1177,17 @@
     ],
     [
       {
-        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Drachenwüste.jpg",
-        "text": "Edvin hat noch nicht alle Drachen verjagt. Hilf ihm weiterhin dabei!<br>Das Spiel geht genauso weiter.",
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Tierewüste.jpg",
+        "text": "Edvin und Bragi sehen noch immer Tiere, die es gar nicht gibt! Hilf Finja dabei, sie zu retten.<br><br><br>Das Spiel geht genauso weiter.",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Wüste2.jpg",
+        "text": "Geschafft! Edvin und Bragi sind wieder bei klarem Verstand.",
         "button": "Weiter"
       },
       {
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/ZauberstabWüste.jpg",
-        "text": "Edvin, Bragi und Finja haben alle Drachen verjagt oder erstarren lassen! Jetzt können sie ihren Weg durch die Wüste fortsetzen.",
-        "button": "Weiter"
-      },
-      {
-        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/FinjaWüste.jpg",
         "text": "Edvin und Bragi irren noch durch die Wüste. Hilf ihnen weiterhin den Weg durch die Wüste zu finden.<br>Das Spiel geht genauso weiter.",
         "button": "Weiter"
       },
@@ -1200,45 +1199,45 @@
     ],
     [
       {
-        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Schattengebirge",
-        "text": "Die Angreifer beschützen das Bruchstück des Jupitersteins immer noch!<br>Das Spiel geht genauso weiter.",
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/inhibition_gonogo_bücher.jpg",
+        "text": "Edvin hat den richtigen Zaubertrank noch nicht gefunden! Hilf ihm weiterhin in den Büchern zu suchen. <br><br><br>Das Spiel geht genauso weiter.",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Zaubertrank.jpg",
+        "text": "Edvin hat den richtigen Zaubertrank gefunden und kann jetzt ein Heilmittel für Bragi mischen!",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Schattengebirge.jpg",
+        "text": "Die Angreifer beschützen das Bruchstück des Jupitersteins immer noch! <br><br>Hilf Edvin weiterhin sie zu vertreiben.<br><br> Das Spiel geht genauso weiter.",
         "button": "Weiter"
       },
       {
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Schattengebirge2.jpg",
-        "text": "Die Gegner sind alle geflüchtet! Jetzt können Edvin, Bragi und Finja das Bruchstück des Jupitersteins mitnehmen.",
-        "button": "Weiter"
-      },
-      {
-        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/DrachenSchattengebirge.jpg",
-        "text": "Die Drachen sind noch da und kämpfen gegen Edvin! Das Spiel geht genauso weiter.",
-        "button": "Weiter"
-      },
-      {
-        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/DrachenSchattengebirge2.jpg",
-        "text": "Die Drachen sind zu Stein erstarrt! Jetzt können Edvin, Bragi und Finja weitergehen.",
+        "text": "Die Gegner sind alle geflüchtet! Jetzt können Edvin, Bragi und Finja das Bruchstück des Jupitersteins mitnehmen<br>",
         "button": "Weiter"
       }
     ],
     [
       {
-        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Edvinklettert.jpg",
-        "text": "Edvin ist noch nicht oben angekommen. Hilf ihm weiterhin dabei Finjas Weg zu folgen.<br>Das Spiel geht genauso weiter. ",
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Jupiterstein7.jpg",
+        "text": "Hilf Edvin, Bragi und Finja weiterhin das echte Bruchstück des Jupitersteins zu finden.<br><br><br>Das Spiel geht genauso weiter. ",
         "button": "Weiter"
       },
       {
-        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Edvinoben.jpg",
-        "text": "Edvin ist oben auf der Felswand angekommen! Jetzt können Edvin und Finja Bragi hochziehen.",
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Jupiterstein6.jpg",
+        "text": "Geschafft! Edvin, Bragi und Finja haben herausgefunden, welches das echte Bruchstück des Jupitersteins ist.",
         "button": "Weiter"
       },
       {
-        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/inhibition_gonogo_bücher.jpg",
-        "text": "Edvins Zaubersachen fliegen immer noch umher. Hilf weiterhin dabei sie aus dem Wirbelsturm zu befreien.<br>Das Spiel geht genauso weiter. ",
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/DrachenSchattengebirge.jpg",
+        "text": "Die Drachen sind noch da und kämpfen gegen Edvin! Hilf Edvin weiter, die Drachen zu Stein erstarren zu lassen.<br><br><br>Das Spiel geht genauso weiter. ",
         "button": "Weiter"
       },
       {
-        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/inhibition_gonogo_bücher.jpg",
-        "text": "Geschafft! Edvin hat seine Zaubersachen zu sich gezaubert und sicher in seiner Tasche verpackt.",
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/DrachenSchattengebirge2.jpg",
+        "text": "Die Drachen sind zu Stein erstarrt! Jetzt können Edvin, Bragi und Finja weitergehen.",
         "button": "Weiter"
       }
     ],
@@ -1288,11 +1287,15 @@
     ],
     [
       {
-        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Jupiterstein6.jpg",
-        "text": "Hilf Edvin, Bragi und Finja weiterhin das letzte Bruchstück des Jupitersteins zu fangen.<br>Das Spiel geht genauso weiter.",
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Jupiterstein7.jpg",
+        "text": "Hilf Edvin, Bragi und Finja weiterhin das passende Bruchstück des Jupitersteins zu finden.<br><br><br>Das Spiel geht genauso weiter.",
         "button": "Weiter"
       },
-      [],
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Jupiterstein6",
+        "text": "Edvin, Bragi und Finja haben herausgefunden, welches das echte Bruchstück des Jupitersteins ist. Jetzt können sie alle Teile zusammensetzen.",
+        "button": "Weiter"
+      },
       {
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/inhibition_gonogo_bücher",
         "text": "Edvin hat den Vereinigungszauber noch nicht gefunden! Hilf ihm weiterhin in den Büchern zu suchen. Das Spiel geht genauso weiter.",
@@ -1306,23 +1309,23 @@
     ],
     [
       {
-        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Jupiterstein8.jpg",
-        "text": "Die Bruchstücke sind noch nicht vereint! Hilf weiterhin dabei sie zusammenzusetzen.<br>Das Spiel geht genauso weiter.",
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Ansgarkampf.jpg",
+        "text": "Ansgar wurde noch nicht besiegt. Hilf Edvin weiterhin ihn zu bekämpfen.<br><br><br>Das Spiel geht genauso weiter.",
         "button": "Weiter"
       },
       {
-        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Jupiterstein6.jpg",
-        "text": "Der Zauber hat funktioniert! Die fünf Bruchstücke des Jupitersteins vereinen sich.",
-        "button": "Weiter"
-      },
-      {
-        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Ansgarkampf",
-        "text": "Ansgar wurde noch nicht besiegt. Hilf Edvin weiterhin ihn zu bekämpfen.<br>Das Spiel geht genauso weiter.",
-        "button": "Weiter"
-      },
-      {
-        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Ansgarbesiegt",
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Ansgarbesiegt.jpg",
         "text": "Mit einem letzten Zauber ist es vollbracht. Edvin hatte genug Zauberkraft gesammelt um Ansgar mit Hilfe des Jupitersteins zu besiegen. Der böse Zauberer Ansgar zerfällt zu Staub und nur sein Hut bleibt von ihm übrig.",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Kobolde.jpg",
+        "text": "Die Kobolde sind immer noch da! Versuche weiterhin Edvin zu helfen, die Kobolde zu verjagen.<br>Das Spiel geht genauso weiter.",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Kobolde2.jpg",
+        "text": "Die Kobolde wurden getroffen und verschwinden wieder! Edvin, Bragi und Finja können nach Hause gehen.",
         "button": "Weiter"
       }
     ]
@@ -1432,9 +1435,14 @@
       [],
       [],
       [],
-      []
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+        "text": "Bis zum nächsten Mal! <br>Du hast das Spiel mit Edvin, Bragi und Finja heute zum 11. mal gespielt. Vergiss nicht, es bald wieder zu spielen, um Edvin, Bragi und Finja zu helfen das Königreich Asfallon zu retten.<br>Im nächsten Teil warten weitere spannende Aufgaben auf dich, Edvin, Bragi und Finja. <br>",
+        "button": "Weiter"
+      }
     ],
     [
+      [],
       [],
       [],
       [],
@@ -1575,16 +1583,16 @@
     [
       {
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Karte10.jpg",
-        "video": "CM4JehOX51U",
+        "video": "-NZk-xvDJaM",
         "text": "Wohin sollen Edvin, Bragi und Finja als nächstes gehen? <br>- Auf direktem Weg durch die Wüste zum Schloss Mondwacht, um dort die anderen Bruchstücke zu finden und Ansgar zu besiegen.<br>- Oder nach Süden in den Zauberwald, um weitere Bruchstücke des Jupitersteins zu finden und Zauberkraft zu sammeln",
         "choices": [
           {
             "buttonText": "Durch die Wüste",
-            "video": "ktVuQpsexLA"
+            "video": "EsnXipEFx4Q"
           },
           {
             "buttonText": "Zum Zauberwald",
-            "video": "eazrDxsu648"
+            "video": "ldWfzc2VyYY"
           }
         ]
       },
@@ -1613,16 +1621,16 @@
     [
       {
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Karte19",
-        "video": "Vd1_Ax6kuac",
+        "video": "JXWH28eR__A",
         "text": "Wie sollen die drei an das Bruchstück des Jupitersteins auf der Insel in dem Kristallsee kommen? <br><br>- Edvin schwimmt alleine über den See und sucht das Bruchstück auf der Insel.<br><br>- Oder die drei gehen zu einem Dorf weiter südlich, wo sie ein Floß kaufen könnten, um über den See zu gelangen.<br><br>",
         "choices": [
           {
             "buttonText": "Edvin schwimmt",
-            "video": "8Xx45Au8aLs"
+            "video": "0cd9yHDAkYc"
           },
           {
             "buttonText": "Floß im Dorf kaufen",
-            "video": "xTHZ4P5s9zo"
+            "video": "PsnvS1Gc0U4"
           }
         ]
       },
@@ -1887,6 +1895,7 @@
       1
     ],
     [
+      0,
       0,
       1,
       0,

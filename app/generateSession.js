@@ -1,4 +1,5 @@
 var utils = require('./utils');
+var exerciseConceptIdMap = require('./exercisesConceptIdMap');
 
 const rowTypeToConfigMapping = {
   'StaticScreen': 'staticScreen',
@@ -19,6 +20,7 @@ module.exports = function(config, rowList, session) {
   var sessionIndex = session - 1;
   var exerciseIndex = 0;
 
+  config.games_plan[sessionIndex] = [];
   config.introVideos[sessionIndex] = [];
   config.tutorialVideos[sessionIndex] = [];
   config.staticScreen[sessionIndex] = [];
@@ -86,6 +88,10 @@ module.exports = function(config, rowList, session) {
       case 'PostES': {
         config[rowName][sessionIndex][exerciseIndex] = 1;
       } break;
+
+      case 'Exercise': {
+        config.games_map_names.push(row.exerciseName);
+      } break;
     }
 
     if (val) {
@@ -101,7 +107,7 @@ module.exports = function(config, rowList, session) {
   var maxExercises = 4;
 
   for(let configSection in config) {
-    if (config.hasOwnProperty(configSection)) {
+    if (config.hasOwnProperty(configSection) && config[configSection][sessionIndex]) {
       let val = [];
 
       if (configSection.contains('EsScreen')) {

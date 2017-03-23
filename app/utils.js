@@ -28,5 +28,17 @@ module.exports = {
 
   getYoutubeId: function(videoUrl) {
     return videoUrl.replace('https://youtu.be/', '');
+  },
+
+  getExerciseConceptIdMap: function(rows) {
+    return rows.reduce(function(memo, row) {
+      memo[row.name] = {
+        id: row.id,
+        conceptid: row.conceptid
+      };
+
+      return memo;
+    }, {});
   }
+
 };

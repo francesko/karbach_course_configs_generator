@@ -2,7 +2,7 @@ var Q = require('q');
 var GoogleAPI = require('./app/GoogleAPI');
 var stringPolifylls = require('./app/stringPolyfills');
 var generateConfig = require('./app/generateConfig');
-var configPath = './output';
+var configPath = './output/';
 
 var configs = [
   {
@@ -10,16 +10,16 @@ var configs = [
     tab: 0,
     courseId: 60
   },
-  // {
-  //   name: 'Inhibition (motivational)',
-  //   tab: 1,
-  //   courseId: 61
-  // },
-  // {
-  //   name: 'Kognitive Flexibilität (motivational)',
-  //   tab: 2,
-  //   courseId: 62
-  // },
+  {
+    name: 'Inhibition (motivational)',
+    tab: 1,
+    courseId: 61
+  },
+  {
+    name: 'Kognitive Flexibilität (motivational)',
+    tab: 2,
+    courseId: 62
+  },
   // {
   //   name: 'Arbeitsgedächtnis (nicht motivational)',
   //   tab: 3,

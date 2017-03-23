@@ -1,89 +1,89 @@
 {
   "games_map_names": [
-    "NBack (Zauberzubehör)",
-    "NBack (Zauberzubehör)",
-    "Serienmerker (Pflanzen)",
-    "Serienmerker (Pflanzen)",
-    "Pfadfinder (Elfe)",
-    "Pfadfinder (Elfe)",
-    "NBack (Karte)",
-    "NBack (Karte)",
-    "Serienmerker (Kobolde)",
-    "Serienmerker (Kobolde)",
-    "Pfadfinder (Zauberstab)",
-    "Pfadfinder (Zauberstab)",
-    "NBack (Zauberzubehör)",
-    "NBack (Zauberzubehör)",
-    "Serienmerker (Pflanzen)",
-    "Serienmerker (Pflanzen)",
-    "Pfadfinder (Zauberstab)",
-    "Pfadfinder (Zauberstab)",
-    "NBack (Karte)",
-    "NBack (Karte)",
-    "Serienmerker (Kobolde)",
-    "Serienmerker (Kobolde)",
-    "Pfadfinder (Zauberstein)",
-    "Pfadfinder (Zauberstein)",
-    "NBack (Fabelwesen)",
-    "NBack (Fabelwesen)",
-    "Serienmerker (Pflanzen)",
-    "Serienmerker (Pflanzen)",
-    "Pfadfinder (Elfe)",
-    "Pfadfinder (Elfe)",
-    "NBack (Karte)",
-    "NBack (Karte)",
-    "Serienmerker (Pflanzen)",
-    "Serienmerker (Pflanzen)",
-    "Pfadfinder (Zauberstein)",
-    "Pfadfinder (Zauberstein)",
-    "NBack (Karte)",
-    "NBack (Karte)",
-    "Serienmerker (Kobolde)",
-    "Serienmerker (Kobolde)",
-    "Pfadfinder (Zauberstab)",
-    "Pfadfinder (Zauberstab)",
-    "NBack (Fabelwesen)",
-    "NBack (Fabelwesen)",
-    "Serienmerker (Pflanzen)",
-    "Serienmerker (Pflanzen)",
-    "Pfadfinder (Zauberstab)",
-    "Pfadfinder (Zauberstab)",
-    "NBack (Karte)",
-    "NBack (Karte)",
-    "Serienmerker (Pflanzen)",
-    "Serienmerker (Pflanzen)",
-    "Pfadfinder (Zauberstab)",
-    "Pfadfinder (Zauberstab)",
-    "NBack (Karte)",
-    "NBack (Karte)",
-    "Serienmerker (Drachen)",
-    "Serienmerker (Drachen)",
-    "Pfadfinder (Elfe)",
-    "Pfadfinder (Elfe)",
-    "NBack (Fabelwesen)",
-    "NBack (Fabelwesen)",
-    "Serienmerker (Drachen)",
-    "Serienmerker (Drachen)",
-    "Pfadfinder (Elfe)",
-    "Pfadfinder (Elfe)",
-    "NBack (Zauberzubehör)",
-    "NBack (Zauberzubehör)",
-    "Serienmerker (Pflanzen)",
-    "Serienmerker (Pflanzen)",
-    "Pfadfinder (Zauberstab)",
-    "Pfadfinder (Zauberstab)",
-    "NBack (Karte)",
-    "NBack (Karte)",
-    "Serienmerker (Kobolde)",
-    "Serienmerker (Kobolde)",
-    "Pfadfinder (Zauberstein)",
-    "Pfadfinder (Zauberstein)",
-    "NBack (Zauberzubehör)",
-    "NBack (Zauberzubehör)",
-    "Pfadfinder (Zauberstein)",
-    "Pfadfinder (Zauberstein)",
-    "NBack (Fabelwesen)",
-    "NBack (Fabelwesen)"
+    "CTT (Zauberzubehör)",
+    "CTT (Zauberzubehör)",
+    "Task Switching Heterogen (Pflanzen)",
+    "Task Switching Heterogen (Pflanzen)",
+    "Dual Task Mixed Block (Elfe)",
+    "Dual Task Mixed Block (Elfe)",
+    "CTT (Karte)",
+    "CTT (Karte)",
+    "Task Switching Heterogen (ElfeKobold)",
+    "Task Switching Heterogen (ElfeKobold)",
+    "Dual Task Mixed Block (DracheTroll)",
+    "Dual Task Mixed Block (DracheTroll)",
+    "CTT (Zauberzubehör)",
+    "CTT (Zauberzubehör)",
+    "Task Switching Heterogen (Pflanzen)",
+    "Task Switching Heterogen (Pflanzen)",
+    "Dual Task Mixed Block (DracheTroll)",
+    "Dual Task Mixed Block (DracheTroll)",
+    "CTT (Karte)",
+    "CTT (Karte)",
+    "Task Switching Heterogen (ElfeKobold)",
+    "Task Switching Heterogen (ElfeKobold)",
+    "Dual Task Mixed Block (Zauberstein)",
+    "Dual Task Mixed Block (Zauberstein)",
+    "CTT (Fabelwesen)",
+    "CTT (Fabelwesen)",
+    "Task Switching Heterogen (Pflanzen)",
+    "Task Switching Heterogen (Pflanzen)",
+    "Dual Task Mixed Block (Elfe)",
+    "Dual Task Mixed Block (Elfe)",
+    "CTT (Karte)",
+    "CTT (Karte)",
+    "Task Switching Heterogen (Pflanzen)",
+    "Task Switching Heterogen (Pflanzen)",
+    "Dual Task Mixed Block (Zauberstein)",
+    "Dual Task Mixed Block (Zauberstein)",
+    "CTT (Karte)",
+    "CTT (Karte)",
+    "Task Switching Heterogen (KoboldElfe)",
+    "Task Switching Heterogen (KoboldElfe)",
+    "Dual Task Mixed Block (DracheTroll)",
+    "Dual Task Mixed Block (DracheTroll)",
+    "CTT (Fabelwesen)",
+    "CTT (Fabelwesen)",
+    "Task Switching Heterogen (Pflanzen)",
+    "Task Switching Heterogen (Pflanzen)",
+    "Dual Task Mixed Block (DracheTroll)",
+    "Dual Task Mixed Block (DracheTroll)",
+    "CTT (Karte)",
+    "CTT (Karte)",
+    "Task Switching Heterogen (Pflanzen)",
+    "Task Switching Heterogen (Pflanzen)",
+    "Dual Task Mixed Block (DracheTroll) ",
+    "Dual Task Mixed Block (DracheTroll)",
+    "CTT (Karte)",
+    "CTT (Karte)",
+    "Task Switching Heterogen (DracheTroll)",
+    "Task Switching Heterogen (DracheTroll)",
+    "Dual Task Mixed Block (Elfe)",
+    "Dual Task Mixed Block (Elfe)",
+    "CTT (Fabelwesen)",
+    "CTT (Fabelwesen)",
+    "Task Switching Heterogen (DracheTroll)",
+    "Task Switching Heterogen (DracheTroll)",
+    "Dual Task Mixed Block (Elfe)",
+    "Dual Task Mixed Block (Elfe)",
+    "CTT (Zauberzubehör)",
+    "CTT (Zauberzubehör)",
+    "Task Switching Heterogen (Pflanzen)",
+    "Task Switching Heterogen (Pflanzen)",
+    "Dual Task Mixed Block (DracheTroll)",
+    "Dual Task Mixed Block (DracheTroll)",
+    "CTT (Karte)",
+    "CTT (Karte)",
+    "Task Switching Heterogen (ElfenKobolde)",
+    "Task Switching Heterogen (ElfenKobolde)",
+    "Dual Task Mixed Block (Zauberstein)",
+    "Dual Task Mixed Block (Zauberstein)",
+    "CTT (Zauberzubehör)",
+    "CTT (Zauberzubehör)",
+    "Dual Task Mixed Block (Zauberstein)",
+    "Dual Task Mixed Block (Zauberstein)",
+    "CTT (Fabelwesen)",
+    "CTT (Fabelwesen)"
   ],
   "games_map": [],
   "games_plan": [
@@ -217,7 +217,7 @@
   "introVideos": [
     [
       [
-        "eF5jucZIpDE"
+        "751vdIt-R3s"
       ],
       [],
       [],
@@ -225,7 +225,7 @@
     ],
     [
       [
-        "SodQv8HS3tQ"
+        "Q9nAoKeSIdQ"
       ],
       [],
       [],
@@ -233,7 +233,7 @@
     ],
     [
       [
-        "Qmbs-5KDF20"
+        "Rn8r01_Jet0"
       ],
       [],
       [],
@@ -241,7 +241,7 @@
     ],
     [
       [
-        "72XIuZcRu1w"
+        "8jS_aCdWp1s"
       ],
       [],
       [],
@@ -249,7 +249,7 @@
     ],
     [
       [
-        "O9HnM49rWHI"
+        "fNjtpXozd_c"
       ],
       [],
       [],
@@ -257,7 +257,7 @@
     ],
     [
       [
-        "V5_PLfnpOKw"
+        "yVGfXFIn_e0"
       ],
       [],
       [],
@@ -265,7 +265,7 @@
     ],
     [
       [
-        "-XppHFZxVXQ"
+        "qlOCHpSJoeA"
       ],
       [],
       [],
@@ -273,7 +273,7 @@
     ],
     [
       [
-        "bxvQta7P2uk"
+        "vHaZvB7rkUw"
       ],
       [],
       [],
@@ -281,7 +281,7 @@
     ],
     [
       [
-        "iQvaRl9U0rQ"
+        "jDksxwnui7E"
       ],
       [],
       [],
@@ -289,7 +289,7 @@
     ],
     [
       [
-        "4w5vbGm4sv8"
+        "RWNs63_u0Z4"
       ],
       [],
       [],
@@ -297,7 +297,7 @@
     ],
     [
       [
-        "GsOm2tnhNT4"
+        "XIiiftpB_tI"
       ],
       [],
       [],
@@ -305,7 +305,7 @@
     ],
     [
       [
-        "RPPuasV-_Fs"
+        "Hn3Aw4nAC6g"
       ],
       [],
       [],
@@ -313,7 +313,7 @@
     ],
     [
       [
-        "PKK35b0Kh7E"
+        "jNJ1EC7C0KQ"
       ],
       [],
       [],
@@ -321,7 +321,7 @@
     ],
     [
       [
-        "9wR3qx58V_E"
+        "nClkZFzDjrM"
       ],
       [],
       [],
@@ -329,7 +329,7 @@
     ],
     [
       [
-        "kUW4dn7MOio"
+        "pMb3K-SJJOY"
       ],
       [],
       [],
@@ -337,7 +337,7 @@
     ],
     [
       [
-        "Cts_vfU-yoc"
+        "W1wB2caw77w"
       ],
       [],
       [],
@@ -345,7 +345,7 @@
     ],
     [
       [
-        "gbkUe4XdvmY"
+        "ir46LUjqJ-w"
       ],
       [],
       [],
@@ -353,7 +353,7 @@
     ],
     [
       [
-        "ECJjyiCjJYY"
+        "9JZBmhuW5T0"
       ],
       [],
       [],
@@ -361,7 +361,7 @@
     ],
     [
       [
-        "0TMLhmKKIX4"
+        "svGU0F3Bks4"
       ],
       [],
       [],
@@ -369,7 +369,7 @@
     ],
     [
       [
-        "t5vj8JsxoN4"
+        "4oy0yBGKhz4"
       ],
       [],
       [],
@@ -377,7 +377,7 @@
     ],
     [
       [
-        "KU2eVskcCfY"
+        "M0bA90WnSUM"
       ],
       [],
       [],
@@ -389,269 +389,269 @@
       [],
       [],
       [
-        "90Rom-5SJX4"
+        "uJF_5CFmwGg"
       ],
       [
         "",
-        "_FQhW50LG_E"
+        "mcovUd7kszA"
       ]
     ],
     [
       [
-        "WOOzTv9fL5Q"
+        "FVAFt93rpHs"
       ],
       [],
       [
-        "jLSAIOKlihk"
+        "Bbv9aC1TICA"
       ],
       [
         "",
-        "PDoMuvYlDU4"
+        "LlSAILSqpEg"
       ]
     ],
     [
       [
-        "hn73A27gKpM"
+        "x0AciHfElEE"
       ],
       [],
       [
-        "SAmXwT3gZOs"
+        "3miRF3xgDgg"
       ],
       [
         "",
-        "sNMyeSySKvw"
+        "-n0txEpDGNg"
       ]
     ],
     [
       [
-        "fSiT1cAB2r4"
+        "xBILfJarsY4"
       ],
       [],
       [
-        "IPVYta0LPPM"
+        "OvU_m3RzFzA"
       ],
       [
         "",
-        "Ag-9Zf2aJ54"
+        "nHmrY5WtE8I"
       ]
     ],
     [
       [
-        "_zwf1GfR1XY"
+        "0WChEsLgHD8"
       ],
       [],
       [
-        "x36Hf8uxQOk"
+        "fLht34n2rkQ"
       ],
       [
         "",
-        "g42w6ixmktw"
+        "_yMaS1a9GLk"
       ]
     ],
     [
       [
-        "at3HgeqtqDY"
+        "K2oJNvzmddo"
       ],
       [],
       [
-        "T0ryLWkOk00"
+        "xQU7b87mmx0"
       ],
       [
         "",
-        "dglDc5UdNys"
+        "oD02XjAVEHo"
       ]
     ],
     [
       [
-        "UGRFXMi4V5w"
+        "dRgGVGIqaFU"
       ],
       [],
       [
-        "OK43_hV-Hu4"
+        "otIY81-JY2A"
       ],
       [
         "",
-        "Tzy6idQjhuE"
+        "bhKdIb5PFHE"
       ]
     ],
     [
       [
-        "gTFezhsVlH8"
+        "Hi2QcVbG_b0"
       ],
       [],
       [
-        "5jTbEpoyfHg"
+        "VPd521edJYM"
       ],
       [
         "",
-        "vigOFbKI0d0"
+        "Cq4gsaqEqYs"
       ]
     ],
     [
       [
-        "_1Vt1KC4cIg"
+        "VvPFM1FUsj8"
       ],
       [],
       [
-        "Sb8HkWmDHfU"
+        "oWMy0STq_PM"
       ],
       [
         "",
-        "A8SNYP1mz5g"
+        "iV6hm2VMHd4"
       ]
     ],
     [
       [
-        "BeFlanIXisQ"
+        "OMz9yqQ_8pY"
       ],
       [],
       [
-        "wXttLGFSQ5A"
+        "eE7Asel1ZEg"
       ],
       [
         "",
-        "wLgazvEADUY"
+        "sCrxvGtcxqM"
       ]
     ],
     [
       [],
       [],
       [
-        "fdEjXT5L4V8"
+        "uLU2mkJxJpg"
       ],
       [
         "",
-        "88fav-LduWs"
+        "mjNzCq60NQ4"
       ]
     ],
     [
       [
-        "2wN9DHG6DWY"
+        "FNOpHK-qHhs"
       ],
       [],
       [
-        "NHkyRrcz-Xg"
+        "TmG-g1cCiLI"
       ],
       [
         "",
-        "bfmGylzVzq4"
+        "JJ_CSWCez8o"
       ]
     ],
     [
       [
-        "t0UG1FpRFEE"
+        "ai0jV9KCIhw"
       ],
       [],
       [
-        "wl2_mMIjSeE"
+        "Q2jKfAWXyMY"
       ],
       [
         "",
-        "aFdINMXhcdA"
+        "9LaDUz_GRe8"
       ]
     ],
     [
       [
-        "feXe6DL70jI"
+        "wfDghtDzCFg"
       ],
       [],
       [
-        "MDiROm0f56E"
+        "_aH9t4-HEAE"
       ],
       [
         "",
-        "n9a96R1Vsc4"
+        "0G2m1NtCD28"
       ]
     ],
     [
       [
-        "EFsXQ31aLRk"
+        "HXwUxb-4MTs"
       ],
       [],
       [
-        "NXr6RrZ3g_k"
+        "dw1M_1d6324"
       ],
       [
         "",
-        "5BW-lSUSLTo"
+        "aOQHGvaVsAY"
       ]
     ],
     [
       [
-        "Vr3DUG7e7Io"
+        "imk9o1gWkkQ"
       ],
       [],
       [
-        "mMNkYr_ywk8"
+        "7SWOICxQkyk"
       ],
       [
         "",
-        "C06ALXHgL6E"
+        "p9waLkrY-LI"
       ]
     ],
     [
       [
-        "NPqC0ZafAQM"
+        "8g1tX1o2LmM"
       ],
       [],
       [
-        "E4nhHvkEO3M"
+        "VjRLU7bFGe0"
       ],
       [
         "",
-        "TYzOSB6uigw"
+        "uhPwy1qIL4A"
       ]
     ],
     [
       [
-        "R1kH4f31HUY"
+        "ibZ3Hw1wQ3k"
       ],
       [],
       [
-        "ohR6pRs2fxU"
+        "o5EPyD9nLWY"
       ],
       [
         "",
-        "pnijPh9z2EQ"
+        "NxlF8J2gSSo"
       ]
     ],
     [
       [
-        "UJ2J1GarwoA"
+        "TidJwipU3pU"
       ],
       [],
       [
-        "V7PFsn58HcA"
+        "VF8vhO1PdiI"
       ],
       [
         "",
-        "52Q1Q3ba3y4"
+        "rK3BorotbtU"
       ]
     ],
     [
       [
-        ""
+        "LAU7z_lr0tk"
       ],
       [],
       [
-        "jFwkOEY7zRs"
+        "bAt-CIueEiQ"
       ],
       [
         "",
-        "976fZRwGbnA"
+        "qvX_3ngZCsM"
       ]
     ],
     [
       [
-        "5_UfR03iXOg"
+        "6vb9RvKWb48"
       ],
       [],
       [
-        "VcN52mMBK0E"
+        "Ue8LX7_lV7g"
       ],
       [
         "",
-        "hYq3tR25nXM"
+        "ubh7CMHV3-U"
       ]
     ]
   ],
@@ -848,11 +848,7 @@
         "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 20. mal und sollst es insgesamt 21 mal spielen.<br>Bitte setze zuerst deine Kopfhörer auf, oder schalte deine Lautsprecher an, um mit dem nächsten Teil des Spiels zu beginnen.<br><br>Wenn du die ganze Geschichte noch einmal hören möchtest, klicke auf „nochmal anhören“<br>Wenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“<br>",
         "button": "Weiter"
       },
-      {
-        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Jupiterstein6",
-        "text": "Edvin, Bragi und Finja haben das letzte Bruchstück des Jupitersteins gefangen. Jetzt können sie alle Teile zusammensetzen.<br><br>",
-        "button": "Weiter"
-      },
+      [],
       [],
       []
     ],
@@ -875,7 +871,7 @@
         "button": "Weiter"
       },
       {
-        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/AG_nback_zauberzubehör.jpg",
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/ag_nback_zauberzubehör.jpg",
         "text": "Du hast Edvin geholfen seine Zauberhilfsmittel für die Reise zu ordnen und einzupacken. Jetzt kann die Reise losgehen.",
         "button": "Weiter"
       },
@@ -991,7 +987,7 @@
       },
       {
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Jupiterstein9.jpg",
-        "text": "Edvin, Bragi und Finja haben den Jupiterstein noch nicht gefangen.<br>Das Spiel geht genauso weiter.",
+        "text": "Edvin, Bragi und Finja wissen noch nicht, welcher Stein der echte Jupiterstein ist. Hilf Ihnen weiterhin dabei, den echten Jupiterstein zu finden.<br><br><br>Das Spiel geht genauso weiter.",
         "button": "Weiter"
       },
       {
@@ -1002,12 +998,12 @@
     ],
     [
       {
-        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Inhibition_gonogo_bücher.jpg",
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/inhibition_gonogo_bücher.jpg",
         "text": "Edvin hat noch nicht alle Zaubersprüche gelernt, um sich gegen Kobolde, Trolle, böse Elfen und Drachen zu verteidigen.<br>Das Spiel geht genauso weiter.",
         "button": "Weiter"
       },
       {
-        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Inhibition_gonogo_bücher.jpg",
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/inhibition_gonogo_bücher.jpg",
         "text": "Edvin hat viele neue Zaubersprüche gelernt.",
         "button": "Weiter"
       },
@@ -1057,7 +1053,7 @@
       },
       {
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Regenbogen2.jpg",
-        "text": "Edvin hat den Zauberstein noch nicht gefangen. Hilf ihm weiterhin den Zauberstein zu fangen, um ihn mitnehmen zu können.<br>Das Spiel geht genauso weiter. ",
+        "text": "Hilf Edvin, Bragi und Finja weiterhin den echten Zauberstein zu finden.<br><br><br>Das Spiel geht genauso weiter. ",
         "button": "Weiter"
       },
       {
@@ -1105,8 +1101,8 @@
         "button": "Weiter"
       },
       {
-        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
-        "text": "Bis zum nächsten Mal! <br>Du hast das Spiel mit Edvin, Bragi und Finja heute zum 11. mal gespielt. Vergiss nicht, es bald wieder zu spielen, um Edvin, Bragi und Finja zu helfen das Königreich Asfallon zu retten.<br>Im nächsten Teil warten weitere spannende Aufgaben auf dich, Edvin, Bragi und Finja. <br>",
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Dorf.jpg",
+        "text": "Die Drachen treten die Flucht an und verlassen das Dorf.",
         "button": "Weiter"
       }
     ],
@@ -1289,10 +1285,14 @@
     [
       {
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Jupiterstein6.jpg",
-        "text": "Hilf Edvin, Bragi und Finja weiterhin das letzte Bruchstück des Jupitersteins zu fangen.<br>Das Spiel geht genauso weiter.",
+        "text": "Hilf Edvin, Bragi und Finja weiterhin das passende Bruchstück des Jupitersteins zu finden.<br><br><br>Das Spiel geht genauso weiter.",
         "button": "Weiter"
       },
-      [],
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Jupiterstein6",
+        "text": "Edvin, Bragi und Finja haben herausgefunden, welches das echte Bruchstück des Jupitersteins ist. Jetzt können sie alle Teile zusammensetzen.<br><br><br>",
+        "button": "Weiter"
+      },
       {
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/inhibition_gonogo_bücher",
         "text": "Edvin hat den Vereinigungszauber noch nicht gefunden! Hilf ihm weiterhin in den Büchern zu suchen. Das Spiel geht genauso weiter.",
@@ -1432,7 +1432,11 @@
       [],
       [],
       [],
-      []
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+        "text": "Bis zum nächsten Mal! <br>Du hast das Spiel mit Edvin, Bragi und Finja heute zum 11. mal gespielt. Vergiss nicht, es bald wieder zu spielen, um Edvin, Bragi und Finja zu helfen das Königreich Asfallon zu retten.<br>Im nächsten Teil warten weitere spannende Aufgaben auf dich, Edvin, Bragi und Finja. <br>",
+        "button": "Weiter"
+      }
     ],
     [
       [],
@@ -1575,16 +1579,16 @@
     [
       {
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Karte10.jpg",
-        "video": "CM4JehOX51U",
+        "video": "Uycinji4tVw",
         "text": "Wohin sollen Edvin, Bragi und Finja als nächstes gehen? <br>- Auf direktem Weg durch die Wüste zum Schloss Mondwacht, um dort die anderen Bruchstücke zu finden und Ansgar zu besiegen.<br>- Oder nach Süden in den Zauberwald, um weitere Bruchstücke des Jupitersteins zu finden und Zauberkraft zu sammeln",
         "choices": [
           {
             "buttonText": "Durch die Wüste",
-            "video": "ktVuQpsexLA"
+            "video": "il1vskS0KCM"
           },
           {
             "buttonText": "Zum Zauberwald",
-            "video": "eazrDxsu648"
+            "video": "uFjzVC0Ip8c"
           }
         ]
       },
@@ -1613,16 +1617,16 @@
     [
       {
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Karte19",
-        "video": "Vd1_Ax6kuac",
+        "video": "OjZRLPA1-98",
         "text": "Wie sollen die drei an das Bruchstück des Jupitersteins auf der Insel in dem Kristallsee kommen? <br><br>- Edvin schwimmt alleine über den See und sucht das Bruchstück auf der Insel.<br><br>- Oder die drei gehen zu einem Dorf weiter südlich, wo sie ein Floß kaufen könnten, um über den See zu gelangen.<br><br>",
         "choices": [
           {
             "buttonText": "Edvin schwimmt",
-            "video": "8Xx45Au8aLs"
+            "video": "1B2772zvz8Y"
           },
           {
             "buttonText": "Floß im Dorf kaufen",
-            "video": "xTHZ4P5s9zo"
+            "video": "OkISBGt3R5g"
           }
         ]
       },
