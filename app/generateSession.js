@@ -122,6 +122,4 @@ module.exports = function(config, rowList, session) {
       utils.fillInArray(config[configSection][sessionIndex], val, maxExercises);
     }
   }
-
-  // config.games_plan[sessionIndex] = Array.apply(null, Array(config.games_map.legnth)).map(Number.prototype.valueOf, 0);
 }
