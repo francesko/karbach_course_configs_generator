@@ -10,16 +10,16 @@ var configs = [
     tab: 0,
     courseId: 60
   },
-  // {
-  //   name: 'Inhibition (motivational)',
-  //   tab: 1,
-  //   courseId: 61
-  // },
-  // {
-  //   name: 'Kognitive Flexibilität (motivational)',
-  //   tab: 2,
-  //   courseId: 62
-  // },
+  {
+    name: 'Inhibition (motivational)',
+    tab: 1,
+    courseId: 61
+  },
+  {
+    name: 'Kognitive Flexibilität (motivational)',
+    tab: 2,
+    courseId: 62
+  },
   // {
   //   name: 'Arbeitsgedächtnis (nicht motivational)',
   //   tab: 3,
