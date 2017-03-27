@@ -1,4 +1,19 @@
 {
+  "meta": {
+    "name": "Study Karbach - Main Group 3 - Kognitive Flexibilität (Motivational)",
+    "devices": [
+      "web"
+    ],
+    "shuffle": "0",
+    "skippable": 0,
+    "training_days": 5,
+    "screenflow": "karbachMotivationalStudy",
+    "progressbar": true,
+    "showInGamePopups": false,
+    "showInGameTutorial": 2,
+    "trackInputData": 3,
+    "game_version": 6
+  },
   "games_map_names": [
     "CCT (Zauberzubehör)",
     "Task Switching Heterogen (Pflanzen)",
@@ -1481,7 +1496,7 @@
     [
       {
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
-        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 2. mal und sollst es insgesamt 21 mal spielen.<br>Bitte setze zuerst deine Kopfhörer auf, oder schalte deine Lautsprecher an, um mit dem nächsten Teil des Spiels zu beginnen.<br><br>Wenn du die ganze Geschichte noch einmal hören möchtest, klicke auf „nochmal anhören“<br>Wenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“<br>",
+        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 2. mal und sollst es insgesamt 21 mal spielen.<br>Bitte setze zuerst deine Kopfhörer auf, oder schalte deine Lautsprecher an, um mit dem nächsten Teil des Spiels zu beginnen.",
         "button": "Weiter"
       },
       [],
@@ -1491,7 +1506,7 @@
     [
       {
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
-        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 3. mal und sollst es insgesamt 21 mal spielen.<br>Bitte setze zuerst deine Kopfhörer auf, oder schalte deine Lautsprecher an, um mit dem nächsten Teil des Spiels zu beginnen.<br><br>Wenn du die ganze Geschichte noch einmal hören möchtest, klicke auf „nochmal anhören“<br>Wenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“<br>",
+        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 3. mal und sollst es insgesamt 21 mal spielen.<br>Bitte setze zuerst deine Kopfhörer auf, oder schalte deine Lautsprecher an, um mit dem nächsten Teil des Spiels zu beginnen.",
         "button": "Weiter"
       },
       [],
@@ -1501,7 +1516,7 @@
     [
       {
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
-        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 4. mal und sollst es insgesamt 21 mal spielen.<br>Bitte setze zuerst deine Kopfhörer auf, oder schalte deine Lautsprecher an, um mit dem nächsten Teil des Spiels zu beginnen.<br><br>Wenn du die ganze Geschichte noch einmal hören möchtest, klicke auf „nochmal anhören“<br>Wenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“<br>",
+        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 4. mal und sollst es insgesamt 21 mal spielen.<br>Bitte setze zuerst deine Kopfhörer auf, oder schalte deine Lautsprecher an, um mit dem nächsten Teil des Spiels zu beginnen.",
         "button": "Weiter"
       },
       [],
@@ -1511,7 +1526,7 @@
     [
       {
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
-        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 5. mal und sollst es insgesamt 21 mal spielen.<br>Bitte setze zuerst deine Kopfhörer auf, oder schalte deine Lautsprecher an, um mit dem nächsten Teil des Spiels zu beginnen.<br><br>Wenn du die ganze Geschichte noch einmal hören möchtest, klicke auf „nochmal anhören“<br>Wenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“<br>",
+        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 5. mal und sollst es insgesamt 21 mal spielen.<br>Bitte setze zuerst deine Kopfhörer auf, oder schalte deine Lautsprecher an, um mit dem nächsten Teil des Spiels zu beginnen.",
         "button": "Weiter"
       },
       [],
@@ -1521,7 +1536,7 @@
     [
       {
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
-        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 6. mal und sollst es insgesamt 21 mal spielen.<br>Bitte setze zuerst deine Kopfhörer auf, oder schalte deine Lautsprecher an, um mit dem nächsten Teil des Spiels zu beginnen.<br><br>Wenn du die ganze Geschichte noch einmal hören möchtest, klicke auf „nochmal anhören“<br>Wenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“<br>",
+        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 6. mal und sollst es insgesamt 21 mal spielen.<br>Bitte setze zuerst deine Kopfhörer auf, oder schalte deine Lautsprecher an, um mit dem nächsten Teil des Spiels zu beginnen.",
         "button": "Weiter"
       },
       [],
@@ -1531,7 +1546,7 @@
     [
       {
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
-        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 7. mal und sollst es insgesamt 21 mal spielen.<br>Bitte setze zuerst deine Kopfhörer auf, oder schalte deine Lautsprecher an, um mit dem nächsten Teil des Spiels zu beginnen.<br><br>Wenn du die ganze Geschichte noch einmal hören möchtest, klicke auf „nochmal anhören“<br>Wenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“<br>",
+        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 7. mal und sollst es insgesamt 21 mal spielen.<br>Bitte setze zuerst deine Kopfhörer auf, oder schalte deine Lautsprecher an, um mit dem nächsten Teil des Spiels zu beginnen.",
         "button": "Weiter"
       },
       [],
@@ -1541,7 +1556,7 @@
     [
       {
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
-        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 8. mal und sollst es insgesamt 21 mal spielen.<br>Bitte setze zuerst deine Kopfhörer auf, oder schalte deine Lautsprecher an, um mit dem nächsten Teil des Spiels zu beginnen.<br><br>Wenn du die ganze Geschichte noch einmal hören möchtest, klicke auf „nochmal anhören“<br>Wenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“<br>",
+        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 8. mal und sollst es insgesamt 21 mal spielen.<br>Bitte setze zuerst deine Kopfhörer auf, oder schalte deine Lautsprecher an, um mit dem nächsten Teil des Spiels zu beginnen.",
         "button": "Weiter"
       },
       [],
@@ -1551,7 +1566,7 @@
     [
       {
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
-        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 9. mal und sollst es insgesamt 21 mal spielen.<br>Bitte setze zuerst deine Kopfhörer auf, oder schalte deine Lautsprecher an, um mit dem nächsten Teil des Spiels zu beginnen.<br><br>Wenn du die ganze Geschichte noch einmal hören möchtest, klicke auf „nochmal anhören“<br>Wenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“<br>",
+        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 9. mal und sollst es insgesamt 21 mal spielen.<br>Bitte setze zuerst deine Kopfhörer auf, oder schalte deine Lautsprecher an, um mit dem nächsten Teil des Spiels zu beginnen.",
         "button": "Weiter"
       },
       [],
@@ -1561,7 +1576,7 @@
     [
       {
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
-        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 10. mal und sollst es insgesamt 21 mal spielen.<br>Bitte setze zuerst deine Kopfhörer auf, oder schalte deine Lautsprecher an, um mit dem nächsten Teil des Spiels zu beginnen.<br><br>Wenn du die ganze Geschichte noch einmal hören möchtest, klicke auf „nochmal anhören“<br>Wenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“<br>",
+        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 10. mal und sollst es insgesamt 21 mal spielen.<br>Bitte setze zuerst deine Kopfhörer auf, oder schalte deine Lautsprecher an, um mit dem nächsten Teil des Spiels zu beginnen.",
         "button": "Weiter"
       },
       [],
@@ -1571,7 +1586,7 @@
     [
       {
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
-        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 11. mal und sollst es insgesamt 21 mal spielen.<br>Bitte setze zuerst deine Kopfhörer auf, oder schalte deine Lautsprecher an, um mit dem nächsten Teil des Spiels zu beginnen.<br><br>Wenn du die ganze Geschichte noch einmal hören möchtest, klicke auf „nochmal anhören“<br>Wenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“<br>",
+        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 11. mal und sollst es insgesamt 21 mal spielen.<br>Bitte setze zuerst deine Kopfhörer auf, oder schalte deine Lautsprecher an, um mit dem nächsten Teil des Spiels zu beginnen.",
         "button": "Weiter"
       },
       [],
@@ -1581,7 +1596,7 @@
     [
       {
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
-        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 12. mal und sollst es insgesamt 21 mal spielen.<br>Bitte setze zuerst deine Kopfhörer auf, oder schalte deine Lautsprecher an, um mit dem nächsten Teil des Spiels zu beginnen.<br><br>Wenn du die ganze Geschichte noch einmal hören möchtest, klicke auf „nochmal anhören“<br>Wenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“<br>",
+        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 12. mal und sollst es insgesamt 21 mal spielen.<br>Bitte setze zuerst deine Kopfhörer auf, oder schalte deine Lautsprecher an, um mit dem nächsten Teil des Spiels zu beginnen.",
         "button": "Weiter"
       },
       [],
@@ -1591,7 +1606,7 @@
     [
       {
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
-        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 13. mal und sollst es insgesamt 21 mal spielen.<br>Bitte setze zuerst deine Kopfhörer auf, oder schalte deine Lautsprecher an, um mit dem nächsten Teil des Spiels zu beginnen.<br><br>Wenn du die ganze Geschichte noch einmal hören möchtest, klicke auf „nochmal anhören“<br>Wenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“<br>",
+        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 13. mal und sollst es insgesamt 21 mal spielen.<br>Bitte setze zuerst deine Kopfhörer auf, oder schalte deine Lautsprecher an, um mit dem nächsten Teil des Spiels zu beginnen.",
         "button": "Weiter"
       },
       [],
@@ -1601,7 +1616,7 @@
     [
       {
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
-        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 14. mal und sollst es insgesamt 21 mal spielen.<br>Bitte setze zuerst deine Kopfhörer auf, oder schalte deine Lautsprecher an, um mit dem nächsten Teil des Spiels zu beginnen.<br><br>Wenn du die ganze Geschichte noch einmal hören möchtest, klicke auf „nochmal anhören“<br>Wenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“<br>",
+        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 14. mal und sollst es insgesamt 21 mal spielen.<br>Bitte setze zuerst deine Kopfhörer auf, oder schalte deine Lautsprecher an, um mit dem nächsten Teil des Spiels zu beginnen.",
         "button": "Weiter"
       },
       [],
@@ -1611,7 +1626,7 @@
     [
       {
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
-        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 15. mal und sollst es insgesamt 21 mal spielen.<br>Bitte setze zuerst deine Kopfhörer auf, oder schalte deine Lautsprecher an, um mit dem nächsten Teil des Spiels zu beginnen.<br><br>Wenn du die ganze Geschichte noch einmal hören möchtest, klicke auf „nochmal anhören“<br>Wenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“<br>",
+        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 15. mal und sollst es insgesamt 21 mal spielen.<br>Bitte setze zuerst deine Kopfhörer auf, oder schalte deine Lautsprecher an, um mit dem nächsten Teil des Spiels zu beginnen.",
         "button": "Weiter"
       },
       [],
@@ -1621,7 +1636,7 @@
     [
       {
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
-        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 16. mal und sollst es insgesamt 21 mal spielen.<br>Bitte setze zuerst deine Kopfhörer auf, oder schalte deine Lautsprecher an, um mit dem nächsten Teil des Spiels zu beginnen.<br><br>Wenn du die ganze Geschichte noch einmal hören möchtest, klicke auf „nochmal anhören“<br>Wenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“<br>",
+        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 16. mal und sollst es insgesamt 21 mal spielen.<br>Bitte setze zuerst deine Kopfhörer auf, oder schalte deine Lautsprecher an, um mit dem nächsten Teil des Spiels zu beginnen.",
         "button": "Weiter"
       },
       [],
@@ -1631,7 +1646,7 @@
     [
       {
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
-        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 17. mal und sollst es insgesamt 21 mal spielen.<br>Bitte setze zuerst deine Kopfhörer auf, oder schalte deine Lautsprecher an, um mit dem nächsten Teil des Spiels zu beginnen.<br><br>Wenn du die ganze Geschichte noch einmal hören möchtest, klicke auf „nochmal anhören“<br>Wenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“<br>",
+        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 17. mal und sollst es insgesamt 21 mal spielen.<br>Bitte setze zuerst deine Kopfhörer auf, oder schalte deine Lautsprecher an, um mit dem nächsten Teil des Spiels zu beginnen.",
         "button": "Weiter"
       },
       [],
@@ -1641,7 +1656,7 @@
     [
       {
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
-        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 18. mal und sollst es insgesamt 21 mal spielen.<br>Bitte setze zuerst deine Kopfhörer auf, oder schalte deine Lautsprecher an, um mit dem nächsten Teil des Spiels zu beginnen.<br><br>Wenn du die ganze Geschichte noch einmal hören möchtest, klicke auf „nochmal anhören“<br>Wenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“<br>",
+        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 18. mal und sollst es insgesamt 21 mal spielen.<br>Bitte setze zuerst deine Kopfhörer auf, oder schalte deine Lautsprecher an, um mit dem nächsten Teil des Spiels zu beginnen.",
         "button": "Weiter"
       },
       [],
@@ -1651,7 +1666,7 @@
     [
       {
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
-        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 19. mal und sollst es insgesamt 21 mal spielen.<br>Bitte setze zuerst deine Kopfhörer auf, oder schalte deine Lautsprecher an, um mit dem nächsten Teil des Spiels zu beginnen.<br><br>Wenn du die ganze Geschichte noch einmal hören möchtest, klicke auf „nochmal anhören“<br>Wenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“<br>",
+        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 19. mal und sollst es insgesamt 21 mal spielen.<br>Bitte setze zuerst deine Kopfhörer auf, oder schalte deine Lautsprecher an, um mit dem nächsten Teil des Spiels zu beginnen.",
         "button": "Weiter"
       },
       [],
@@ -1661,7 +1676,7 @@
     [
       {
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
-        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 20. mal und sollst es insgesamt 21 mal spielen.<br>Bitte setze zuerst deine Kopfhörer auf, oder schalte deine Lautsprecher an, um mit dem nächsten Teil des Spiels zu beginnen.<br><br>Wenn du die ganze Geschichte noch einmal hören möchtest, klicke auf „nochmal anhören“<br>Wenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“<br>",
+        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 20. mal und sollst es insgesamt 21 mal spielen.<br>Bitte setze zuerst deine Kopfhörer auf, oder schalte deine Lautsprecher an, um mit dem nächsten Teil des Spiels zu beginnen.",
         "button": "Weiter"
       },
       [],
@@ -1671,7 +1686,7 @@
     [
       {
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
-        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 21. mal und sollst es insgesamt 21 mal spielen.<br>Bitte setze zuerst deine Kopfhörer auf, oder schalte deine Lautsprecher an, um mit dem nächsten Teil des Spiels zu beginnen.<br><br>Wenn du die ganze Geschichte noch einmal hören möchtest, klicke auf „nochmal anhören“<br>Wenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“<br>",
+        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 21. mal und sollst es insgesamt 21 mal spielen.<br>Bitte setze zuerst deine Kopfhörer auf, oder schalte deine Lautsprecher an, um mit dem nächsten Teil des Spiels zu beginnen.",
         "button": "Weiter"
       },
       [],

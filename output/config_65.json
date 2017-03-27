@@ -1,4 +1,19 @@
 {
+  "meta": {
+    "name": "Study Karbach - Main Group 6 - Kognitive Flexibilität (Nicht Motivational)",
+    "devices": [
+      "web"
+    ],
+    "shuffle": "0",
+    "skippable": 0,
+    "training_days": 5,
+    "screenflow": "karbachNonMotivationalStudy",
+    "progressbar": true,
+    "showInGamePopups": false,
+    "showInGameTutorial": 2,
+    "trackInputData": 3,
+    "game_version": 6
+  },
   "games_map_names": [
     "CCT (Zauberzubehör)",
     "Task Switching Heterogen (Pflanzen)",

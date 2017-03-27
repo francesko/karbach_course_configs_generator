@@ -6,40 +6,118 @@ var configPath = './output/';
 
 var configs = [
   {
-    name: 'Arbeitsgedächtnis (Motivational)',
     tab: 0,
     courseId: 60,
-    flow: 'course_karbachMotivationalStudy_0'
+    meta: {
+      "name": "Study Karbach - Main Group 1 - Arbeitsgedächtnis (Motivational)",
+      "devices": [
+        "web"
+      ],
+      "shuffle": "0",
+      "skippable": 0,
+      "training_days": 5,
+      "screenflow":"karbachMotivationalStudy",
+      "progressbar": true,
+      "showInGamePopups":false,
+      "showInGameTutorial":2,
+      "trackInputData":3,
+      "game_version": 6
+    }
   },
   {
-    name: 'Inhibition (Motivational)',
     tab: 1,
     courseId: 61,
-    flow: 'course_karbachMotivationalStudy_0'
+    meta: {
+      "name": "Study Karbach - Main Group 2 - Inhibition (Motivational)",
+      "devices": [
+        "web"
+      ],
+      "shuffle": "0",
+      "skippable": 0,
+      "training_days": 5,
+      "screenflow":"karbachMotivationalStudy",
+      "progressbar": true,
+      "showInGamePopups":false,
+      "showInGameTutorial":2,
+      "trackInputData":3,
+      "game_version": 6
+    }
   },
   {
-    name: 'Kognitive Flexibilität (Motivational)',
     tab: 2,
     courseId: 62,
-    flow: 'course_karbachMotivationalStudy_0'
+    meta: {
+      "name": "Study Karbach - Main Group 3 - Kognitive Flexibilität (Motivational)",
+      "devices": [
+        "web"
+      ],
+      "shuffle": "0",
+      "skippable": 0,
+      "training_days": 5,
+      "screenflow":"karbachMotivationalStudy",
+      "progressbar": true,
+      "showInGamePopups":false,
+      "showInGameTutorial":2,
+      "trackInputData":3,
+      "game_version": 6
+    }
   },
   {
-    name: 'Arbeitsgedächtnis (Nicht Motivational)',
     tab: 3,
     courseId: 63,
-    flow: 'course_karbachNonMotivationalStudy_0'
+    meta: {
+      "name": "Study Karbach - Main Group 4 - Arbeitsgedächtnis (Nicht Motivational)",
+      "devices": [
+        "web"
+      ],
+      "shuffle": "0",
+      "skippable": 0,
+      "training_days": 5,
+      "screenflow":"karbachNonMotivationalStudy",
+      "progressbar": true,
+      "showInGamePopups":false,
+      "showInGameTutorial":2,
+      "trackInputData":3,
+      "game_version": 6
+    }
   },
   {
-    name: 'Inhibition (Nicht Motivational)',
     tab: 4,
     courseId: 64,
-    flow: 'course_karbachNonMotivationalStudy_0'
+    meta: {
+      "name": "Study Karbach - Main Group 5 - Inhibition (Nicht Motivational)",
+      "devices": [
+        "web"
+      ],
+      "shuffle": "0",
+      "skippable": 0,
+      "training_days": 5,
+      "screenflow":"karbachNonMotivationalStudy",
+      "progressbar": true,
+      "showInGamePopups":false,
+      "showInGameTutorial":2,
+      "trackInputData":3,
+      "game_version": 6
+    }
   },
   {
-    name: 'Kognitive Flexibilität (Nicht Motivational)',
     tab: 5,
     courseId: 65,
-    flow: 'course_karbachNonMotivationalStudy_0'
+    meta:{
+      "name": "Study Karbach - Main Group 6 - Kognitive Flexibilität (Nicht Motivational)",
+      "devices": [
+        "web"
+      ],
+      "shuffle": "0",
+      "skippable": 0,
+      "training_days": 5,
+      "screenflow":"karbachNonMotivationalStudy",
+      "progressbar": true,
+      "showInGamePopups":false,
+      "showInGameTutorial":2,
+      "trackInputData":3,
+      "game_version": 6
+    }
   }
 ];
 

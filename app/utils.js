@@ -17,9 +17,9 @@ module.exports = {
 
   prepareText: function(text) {
     return text
+      .replace('\n\nWenn du die ganze Geschichte noch einmal hören möchtest, klicke auf „nochmal anhören“\nWenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“\n', '')
       .replace(/\n/g, '<br>')
-      .replace(/\r/g, '<br>')
-      .replace('\n\nWenn du die ganze Geschichte noch einmal hören möchtest, klicke auf „nochmal anhören“\nWenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“\n', '');
+      .replace(/\r/g, '<br>');
   },
 
   getImagePath: function(imageFileName) {

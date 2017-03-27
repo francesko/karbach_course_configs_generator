@@ -1,4 +1,19 @@
 {
+  "meta": {
+    "name": "Study Karbach - Main Group 4 - Arbeitsgedächtnis (Nicht Motivational)",
+    "devices": [
+      "web"
+    ],
+    "shuffle": "0",
+    "skippable": 0,
+    "training_days": 5,
+    "screenflow": "karbachNonMotivationalStudy",
+    "progressbar": true,
+    "showInGamePopups": false,
+    "showInGameTutorial": 2,
+    "trackInputData": 3,
+    "game_version": 6
+  },
   "games_map_names": [
     "NBack (Zauberzubehör)",
     "Serienmerker (Pflanzen)",

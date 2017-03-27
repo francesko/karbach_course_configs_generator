@@ -16,6 +16,7 @@ module.exports = function(rows, totalSessions, outputPath, configOptions) {
   });
 
   var config = {
+    meta: configOptions.meta,
     games_map_names: [],
     games_map: [],
     games_groups: [],
@@ -40,7 +41,7 @@ module.exports = function(rows, totalSessions, outputPath, configOptions) {
 
   config.games_groups = utils.getGamesGroups(config.games_map);
 
-  if (configOptions.flow === 'course_karbachNonMotivationalStudy_0') {
+  if (configOptions.meta.screenflow === 'karbachNonMotivationalStudy') {
     delete config.introVideos;
     delete config.tutorialVideos;
     delete config.pseudoChoice;
