@@ -124,7 +124,9 @@ var configs = [
 var promises = configs.map(function(config) {
   return GoogleAPI.getScreeFlowData(config.tab)
     .then(function(rows){
-      generateConfig(rows, 21, configPath + '/config_' + config.courseId + '.json', config);
+      var totalSessions = 21;
+
+      generateConfig(rows, totalSessions, configPath + '/config_' + config.courseId + '.json', config);
     });
 });
 
