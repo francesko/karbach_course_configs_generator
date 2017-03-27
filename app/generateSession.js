@@ -60,11 +60,13 @@ module.exports = function(config, rowList, session) {
       case 'StaticScreen2':
       case 'StaticScreen3': {
         val = {
-          'image': utils.getImagePath(row.image),
-          'text': utils.prepareText(row.mainText)
-            ,
+          'text': utils.prepareText(row.mainText),
           'button': 'Weiter'
         };
+
+        if (row.image) {
+          val.image = utils.getImagePath(row.image);
+        }
       } break;
 
       case 'PseudoChoice': {
