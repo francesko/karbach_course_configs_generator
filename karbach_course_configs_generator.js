@@ -6,41 +6,47 @@ var configPath = './output/';
 
 var configs = [
   {
-    name: 'Arbeitsgedächtnis (motivational)',
+    name: 'Arbeitsgedächtnis (Motivational)',
     tab: 0,
-    courseId: 60
+    courseId: 60,
+    flow: 'course_karbachMotivationalStudy_0'
   },
   {
-    name: 'Inhibition (motivational)',
+    name: 'Inhibition (Motivational)',
     tab: 1,
-    courseId: 61
+    courseId: 61,
+    flow: 'course_karbachMotivationalStudy_0'
   },
   {
-    name: 'Kognitive Flexibilität (motivational)',
+    name: 'Kognitive Flexibilität (Motivational)',
     tab: 2,
-    courseId: 62
+    courseId: 62,
+    flow: 'course_karbachMotivationalStudy_0'
   },
-  // {
-  //   name: 'Arbeitsgedächtnis (nicht motivational)',
-  //   tab: 3,
-  //   courseId: 63
-  // },
-  // {
-  //   name: 'Inhibition (nicht motivational)',
-  //   tab: 4,
-  //   courseId: 64
-  // },
-  // {
-  //   name: 'Kognitive Flexibilität (nicht motivational)',
-  //   tab: 5,
-  //   courseId: 65
-  // }
+  {
+    name: 'Arbeitsgedächtnis (Nicht Motivational)',
+    tab: 3,
+    courseId: 63,
+    flow: 'course_karbachNonMotivationalStudy_0'
+  },
+  {
+    name: 'Inhibition (Nicht Motivational)',
+    tab: 4,
+    courseId: 64,
+    flow: 'course_karbachNonMotivationalStudy_0'
+  },
+  {
+    name: 'Kognitive Flexibilität (Nicht Motivational)',
+    tab: 5,
+    courseId: 65,
+    flow: 'course_karbachNonMotivationalStudy_0'
+  }
 ];
 
 var promises = configs.map(function(config) {
   return GoogleAPI.getScreeFlowData(config.tab)
     .then(function(rows){
-      generateConfig(rows, 21, configPath + '/config_' + config.courseId + '.json');
+      generateConfig(rows, 21, configPath + '/config_' + config.courseId + '.json', config);
     });
 });
 

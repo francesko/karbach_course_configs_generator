@@ -4,7 +4,7 @@ var generateSession = require('./generateSession');
 var Row = require('./Row');
 var RowList = require('./RowList');
 
-module.exports = function(rows, totalSessions, outputPath) {
+module.exports = function(rows, totalSessions, outputPath, configOptions) {
   var rowList = new RowList();
 
   rows.forEach(function(rowData) {
@@ -39,6 +39,14 @@ module.exports = function(rows, totalSessions, outputPath) {
   }
 
   config.games_groups = utils.getGamesGroups(config.games_map);
+
+  if (configOptions.flow === 'course_karbachNonMotivationalStudy_0') {
+    delete config.introVideos;
+    delete config.tutorialVideos;
+    delete config.pseudoChoice;
+    delete config.preEsScreen;
+    delete config.postEsScreen;
+  }
 
   fs.writeFile(outputPath, JSON.stringify(config, null, 2).replace(/https:\/\//g, 'https:\\/\\/'), function (err) {
     if (err) return console.log(err);

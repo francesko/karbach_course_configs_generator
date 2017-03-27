@@ -1,0 +1,1905 @@
+{
+  "games_map_names": [
+    "NBack (Zauberzubehör)",
+    "Serienmerker (Pflanzen)",
+    "Pfadfinder (Elfe)",
+    "NBack (Karte)",
+    "Serienmerker (Kobolde)",
+    "Pfadfinder (Zauberstab)",
+    "NBack (Zauberzubehör)",
+    "Serienmerker (Pflanzen)",
+    "Pfadfinder (Zauberstab)",
+    "NBack (Karte)",
+    "Serienmerker (Kobolde)",
+    "Pfadfinder (Zauberstein)",
+    "NBack (Fabelwesen)",
+    "Serienmerker (Pflanzen)",
+    "Pfadfinder (Elfe)",
+    "NBack (Karte)",
+    "Serienmerker (Pflanzen)",
+    "Pfadfinder (Zauberstein)",
+    "NBack (Karte)",
+    "Serienmerker (Kobolde)",
+    "Pfadfinder (Zauberstab)",
+    "NBack (Fabelwesen)",
+    "Serienmerker (Pflanzen)",
+    "Pfadfinder (Zauberstab)",
+    "NBack (Karte)",
+    "Serienmerker (Pflanzen)",
+    "Pfadfinder (Zauberstab)",
+    "NBack (Karte)",
+    "Serienmerker (Drachen)",
+    "Pfadfinder (Elfe)",
+    "NBack (Fabelwesen)",
+    "Serienmerker (Drachen)",
+    "Pfadfinder (Elfe)",
+    "NBack (Zauberzubehör)",
+    "Serienmerker (Pflanzen)",
+    "Pfadfinder (Zauberstab)",
+    "NBack (Karte)",
+    "Serienmerker (Kobolde)",
+    "Pfadfinder (Zauberstein)",
+    "NBack (Zauberzubehör)",
+    "Pfadfinder (Zauberstein)",
+    "NBack (Fabelwesen)"
+  ],
+  "games_map": [
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSOUNDNBACK3_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDOSPAN1_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDPATHFINDER2_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSOUNDNBACK_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDOSPAN_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDPATHFINDER1_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSOUNDNBACK3_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDOSPAN1_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDPATHFINDER1_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSOUNDNBACK_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDOSPAN_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDPATHFINDER_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSOUNDNBACK1_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDOSPAN1_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDPATHFINDER2_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSOUNDNBACK_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDOSPAN1_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDPATHFINDER_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSOUNDNBACK_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDOSPAN_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDPATHFINDER1_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSOUNDNBACK1_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDOSPAN1_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDPATHFINDER1_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSOUNDNBACK_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDOSPAN1_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDPATHFINDER1_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSOUNDNBACK_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDOSPAN2_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDPATHFINDER2_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSOUNDNBACK1_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDOSPAN2_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDPATHFINDER2_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSOUNDNBACK3_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDOSPAN1_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDPATHFINDER1_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSOUNDNBACK_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDOSPAN_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDPATHFINDER_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSOUNDNBACK3_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDPATHFINDER_ID",
+    "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSOUNDNBACK1_ID"
+  ],
+  "games_groups": [
+    [
+      "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSOUNDNBACK1_ID",
+      "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSOUNDNBACK3_ID",
+      "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDSOUNDNBACK_ID"
+    ],
+    [
+      "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDOSPAN1_ID",
+      "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDOSPAN2_ID",
+      "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDOSPAN_ID"
+    ],
+    [
+      "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDPATHFINDER1_ID",
+      "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDPATHFINDER2_ID",
+      "NN_GAME_CONCEPT_STUDY4_SIMPLIFIEDPATHFINDER_ID"
+    ]
+  ],
+  "games_plan": [
+    [
+      2,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      2,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      2,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      2,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      2
+    ]
+  ],
+  "staticScreen": [
+    [
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 2. mal und sollst es insgesamt 21 mal spielen.<br><br><br><br>Wenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“<br><br>",
+        "button": "Weiter"
+      },
+      [],
+      [],
+      []
+    ],
+    [
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 3. mal und sollst es insgesamt 21 mal spielen.<br><br><br><br>Wenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“<br><br><br>",
+        "button": "Weiter"
+      },
+      [],
+      [],
+      []
+    ],
+    [
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 4. mal und sollst es insgesamt 21 mal spielen.<br><br><br><br>Wenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“<br><br><br>",
+        "button": "Weiter"
+      },
+      [],
+      [],
+      []
+    ],
+    [
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 5. mal und sollst es insgesamt 21 mal spielen.<br><br><br><br><br><br><br><br>Wenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“<br><br><br>",
+        "button": "Weiter"
+      },
+      [],
+      [],
+      []
+    ],
+    [
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 6. mal und sollst es insgesamt 21 mal spielen.<br><br><br><br>Wenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“<br><br><br>",
+        "button": "Weiter"
+      },
+      [],
+      [],
+      []
+    ],
+    [
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 7. mal und sollst es insgesamt 21 mal spielen.<br><br><br><br>Wenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“<br><br><br>",
+        "button": "Weiter"
+      },
+      [],
+      [],
+      []
+    ],
+    [
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 8. mal und sollst es insgesamt 21 mal spielen.<br><br><br><br>Wenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“<br><br><br>",
+        "button": "Weiter"
+      },
+      [],
+      [],
+      []
+    ],
+    [
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 9. mal und sollst es insgesamt 21 mal spielen.<br><br><br><br>Wenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“<br><br><br>",
+        "button": "Weiter"
+      },
+      [],
+      [],
+      []
+    ],
+    [
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br><br><br>Du spielst das Spiel heute zum 10. mal und sollst es insgesamt 21 mal spielen.<br><br><br><br>Wenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“<br><br><br>",
+        "button": "Weiter"
+      },
+      [],
+      [],
+      []
+    ],
+    [
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 11. mal und sollst es insgesamt 21 mal spielen.<br><br><br><br>Wenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“<br><br>",
+        "button": "Weiter"
+      },
+      [],
+      [],
+      []
+    ],
+    [
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 12. mal und sollst es insgesamt 21 mal spielen.<br><br><br><br>Wenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“<br><br><br>",
+        "button": "Weiter"
+      },
+      [],
+      [],
+      []
+    ],
+    [
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 13. mal und sollst es insgesamt 21 mal spielen.<br><br><br><br><br><br>Wenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“<br><br><br>",
+        "button": "Weiter"
+      },
+      [],
+      [],
+      []
+    ],
+    [
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 14. mal und sollst es insgesamt 21 mal spielen.<br><br><br><br>Wenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“<br><br>",
+        "button": "Weiter"
+      },
+      [],
+      [],
+      []
+    ],
+    [
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 15. mal und sollst es insgesamt 21 mal spielen.<br><br><br><br>Wenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“<br><br><br>",
+        "button": "Weiter"
+      },
+      [],
+      [],
+      []
+    ],
+    [
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br><br><br>Du spielst das Spiel heute zum 16. mal und sollst es insgesamt 21 mal spielen.<br><br><br><br>Wenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“<br><br><br>",
+        "button": "Weiter"
+      },
+      [],
+      [],
+      []
+    ],
+    [
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 17. mal und sollst es insgesamt 21 mal spielen.<br><br><br><br>Wenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“<br><br><br>",
+        "button": "Weiter"
+      },
+      [],
+      [],
+      []
+    ],
+    [
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br><br><br>Du spielst das Spiel heute zum 18. mal und sollst es insgesamt 21 mal spielen.<br><br><br><br>Wenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“<br><br><br>",
+        "button": "Weiter"
+      },
+      [],
+      [],
+      []
+    ],
+    [
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br>Du spielst das Spiel heute zum 19. mal und sollst es insgesamt 21 mal spielen.<br><br><br><br><br><br>Wenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“<br><br><br>",
+        "button": "Weiter"
+      },
+      [],
+      [],
+      []
+    ],
+    [
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 20. mal und sollst es insgesamt 21 mal spielen.<br><br><br><br>Wenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“<br><br><br>",
+        "button": "Weiter"
+      },
+      [],
+      [],
+      []
+    ],
+    [
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+        "text": "Willkommen zurück zu deinem Computerspiel mit Edvin, Bragi und Finja!<br><br>Du spielst das Spiel heute zum 21. mal und sollst es insgesamt 21 mal spielen.<br><br>Wenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“<br><br>",
+        "button": "Weiter"
+      },
+      [],
+      [],
+      []
+    ]
+  ],
+  "staticScreen2": [
+    [
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Du hast die Aufgabe noch nicht vollständig gelöst.<br><br>Das Spiel geht genauso weiter.<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Du hast die Aufgabe gelöst. Gleich kommt das nächste Spiel.<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Die Aufgabe ist noch nicht beendet. <br>Das Spiel geht genauso weiter.<br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Das Spiel ist beendet. Nächstes mal darfst du weitere Spiele spielen.<br><br>",
+        "button": "Weiter"
+      }
+    ],
+    [
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Das Spiel ist noch nicht zu Ende. Mach so weiter wie bisher.<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Du hast die Aufgabe gelöst. Gleich kommt das nächste Spiel.<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Um die Aufgabe zu beenden musst du noch ein bisschen weiterspielen.<br><br>Das Spiel geht genauso weiter.<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Für heute bist du fertig. Nächstes mal warten neue spannende Spiele auf dich.<br><br>",
+        "button": "Weiter"
+      }
+    ],
+    [
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Du hast die Aufgabe noch nicht vollständig gelöst.<br><br><br><br>Das Spiel geht genauso weiter.<br><br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Du hast die Aufgabe gelöst. Gleich kommt das nächste Spiel",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Das Spiel ist noch nicht zu Ende. Es geht so weiter wie bisher.<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Das Spiel ist beendet. Nächstes mal darfst du weitere Spiele spielen",
+        "button": "Weiter"
+      }
+    ],
+    [
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Die Aufgabe ist noch nicht beendet.<br><br>Das Spiel geht genauso weiter.<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Du hast die Aufgabe gelöst. Gleich kommt das nächste Spiel.<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Das Spiel ist noch nicht zu Ende. Mach so weiter wie bisher.<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Das Spiel ist beendet. Nächstes mal darfst du weitere Spiele spielen.<br><br>",
+        "button": "Weiter"
+      }
+    ],
+    [
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Du hast die Aufgabe noch nicht vollständig gelöst.<br><br><br><br>Das Spiel geht genauso weiter.<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Du hast dieses Spiel beendet. Gleich kommt das nächste Spiel.<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Das Spiel ist noch nicht zu Ende. Es geht so weiter wie bisher.<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Das Spiel ist beendet. Nächstes mal darfst du weitere Spiele spielen.<br><br>",
+        "button": "Weiter"
+      }
+    ],
+    [
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Für heute bist du fertig. Nächstes mal warten neue spannende Spiele auf dich.<br><br>",
+        "button": "Weiter"
+      },
+      [],
+      [],
+      []
+    ],
+    [
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Um die Aufgabe zu beenden musst du noch ein bisschen weiterspielen.<br><br><br><br>Das Spiel geht genauso weiter.<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Mit dieser Aufgabe bist du fertig. Gleich kommt noch eine Aufgabe, die du lösen sollst.<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Du bist mit dieser Aufgabe noch nicht fertig. Spiel noch ein bisschen weiter wie bisher.<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Du hast heute alle Aufgaben gelöst. Im nächsten Teil gibt es neue Spiele für dich. <br><br>",
+        "button": "Weiter"
+      }
+    ],
+    [
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Die Aufgabe ist noch nicht beendet.<br><br><br><br>Das Spiel geht genauso weiter.<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Du hast die Aufgabe gelöst. Gleich kommt das nächste Spiel.<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Das Spiel ist noch nicht zu Ende. Mach so weiter wie bisher.<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Das Spiel ist beendet. Nächstes mal darfst du weitere Spiele spielen.<br><br>",
+        "button": "Weiter"
+      }
+    ],
+    [
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Du hast die Aufgabe noch nicht vollständig gelöst. Das Spiel geht genauso weiter.",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Du hast dieses Spiel beendet. Gleich kommt das nächste Spiel.<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Das Spiel ist noch nicht zu Ende. Es geht so weiter wie bisher",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Du hast heute alle Aufgaben gelöst. Im nächsten Teil gibt es neue Spiele für dich. <br><br>",
+        "button": "Weiter"
+      }
+    ],
+    [
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Um die Aufgabe zu beenden musst du noch ein bisschen weiterspielen.<br><br>Das Spiel geht genauso weiter.<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Mit dieser Aufgabe bist du fertig. Gleich kommt noch eine Aufgabe, die du lösen sollst",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Du bist mit dieser Aufgabe noch nicht fertig. Spiel noch ein bisschen weiter wie bisher.<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Das Spiel ist beendet. Nächstes mal darfst du weitere Spiele spielen.<br><br>",
+        "button": "Weiter"
+      }
+    ],
+    [
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Die Aufgabe ist noch nicht beendet.<br><br>Das Spiel geht genauso weiter.<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Du hast die Aufgabe gelöst. Gleich kommt das nächste Spiel.<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Das Spiel ist noch nicht zu Ende. Mach so weiter wie bisher.<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Du hast heute alle Aufgaben gelöst. Im nächsten Teil gibt es neue Spiele für dich. <br><br>",
+        "button": "Weiter"
+      }
+    ],
+    [
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Du hast die Aufgabe noch nicht vollständig gelöst.<br><br>Das Spiel geht genauso weiter.<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Du hast dieses Spiel beendet. Gleich kommt das nächste Spiel.<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Das Spiel ist noch nicht zu Ende. Es geht so weiter wie bisher.<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Das Spiel ist beendet. Nächstes mal darfst du weitere Spiele spielen.<br><br>",
+        "button": "Weiter"
+      }
+    ],
+    [
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Du bist mit dieser Aufgabe noch nicht fertig. Spiel noch ein bisschen weiter wie bisher.",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Dieses Spiel ist beendet. Jetzt kommt noch ein Spiel für dich.",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Die Aufgabe ist noch nicht beendet.Das Spiel geht genauso weiter.",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Für heute bist du fertig. Nächstes mal warten neue spannende Spiele auf dich.",
+        "button": "Weiter"
+      }
+    ],
+    [
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Das Spiel ist noch nicht zu Ende. Mach so weiter wie bisher.",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Die Aufgabe ist gelöst. Jetzt kommt die nächste spannende Aufgabe.<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Du hast die Aufgabe noch nicht vollständig gelöst.<br><br>Das Spiel geht genauso weiter.<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Du hast heute alle Aufgaben gelöst. Im nächsten Teil gibt es neue Spiele für dich. <br><br><br><br>",
+        "button": "Weiter"
+      }
+    ],
+    [
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Das Spiel ist noch nicht zu Ende. Es geht so weiter wie bisher.<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Mit dieser Aufgabe bist du fertig. Gleich kommt noch eine Aufgabe, die du lösen sollst.<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Um die Aufgabe zu beenden musst du noch ein bisschen weiterspielen.<br><br>Das Spiel geht genauso weiter.<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Für heute bist du fertig. Nächstes mal warten neue spannende Spiele auf dich.<br><br>",
+        "button": "Weiter"
+      }
+    ],
+    [
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Um die Aufgabe zu beenden musst du noch ein bisschen weiterspielen.<br><br>Das Spiel geht genauso weiter.<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Dieses Spiel ist beendet. Jetzt kommt noch ein Spiel für dich.",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Du bist mit dieser Aufgabe noch nicht fertig. Spiel noch ein bisschen weiter wie bisher.",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Das Spiel ist beendet. Nächstes mal darfst du weitere Spiele spielen.",
+        "button": "Weiter"
+      }
+    ],
+    [
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Die Aufgabe ist noch nicht beendet.<br><br>Das Spiel geht genauso weiter.<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Du hast die Aufgabe gelöst. Gleich kommt das nächste Spiel.<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Das Spiel ist noch nicht zu Ende. Mach so weiter wie bisher.<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Für heute bist du fertig. Nächstes mal warten neue spannende Spiele auf dich",
+        "button": "Weiter"
+      }
+    ],
+    [
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Das Spiel ist noch nicht zu Ende. Mach so weiter wie bisher.<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Die Aufgabe ist gelöst. Jetzt kommt die nächste spannende Aufgabe.<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Du hast die Aufgabe noch nicht vollständig gelöst.<br>Das Spiel geht genauso weiter.<br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Du hast heute alle Aufgaben gelöst. Im nächsten Teil gibt es neue Spiele für dich. <br><br>",
+        "button": "Weiter"
+      }
+    ],
+    [
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Das Spiel ist noch nicht zu Ende. Es geht so weiter wie bisher.<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Mit dieser Aufgabe bist du fertig. Gleich kommt noch eine Aufgabe, die du lösen sollst.<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Um die Aufgabe zu beenden musst du noch ein bisschen weiterspielen.<br><br>Das Spiel geht genauso weiter.<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Du hast heute alle Aufgaben gelöst. Im nächsten Teil gibt es neue Spiele für dich. <br><br>",
+        "button": "Weiter"
+      }
+    ],
+    [
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Du bist mit dieser Aufgabe noch nicht fertig. Spiel noch ein bisschen weiter wie bisher.<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Dieses Spiel ist beendet. Jetzt kommt noch ein Spiel für dich. <br><br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Die Aufgabe ist noch nicht beendet.<br><br>Das Spiel geht genauso weiter.<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Das Spiel ist beendet. Nächstes mal darfst du weitere Spiele spielen.<br><br>",
+        "button": "Weiter"
+      }
+    ],
+    [
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Das Spiel ist noch nicht zu Ende. Mach so weiter wie bisher.<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Die Aufgabe ist gelöst. Jetzt kommt die nächste spannende Aufgabe.<br><br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Du hast die Aufgabe noch nicht vollständig gelöst.<br>Das Spiel geht genauso weiter.<br>",
+        "button": "Weiter"
+      },
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/",
+        "text": "Das war das letzte Spiel. <br><br>",
+        "button": "Weiter"
+      }
+    ]
+  ],
+  "staticScreen3": [
+    [
+      [],
+      [],
+      [],
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+        "text": "Bis zum nächsten Mal! <br>Du hast das Spiel mit Edvin, Bragi und Finja heute zum ersten mal gespielt. Vergiss nicht, es bald wieder zu spielen, um Edvin, Bragi und Finja zu helfen das Königreich Asfallon zu retten.<br>Im nächsten Teil warten weitere spannende Aufgaben auf dich, Edvin, Bragi und Finja. <br>",
+        "button": "Weiter"
+      }
+    ],
+    [
+      [],
+      [],
+      [],
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+        "text": "Bis zum nächsten Mal! <br>Du hast das Spiel mit Edvin, Bragi und Finja heute zum 2. mal gespielt. Vergiss nicht, es bald wieder zu spielen, um Edvin, Bragi und Finja zu helfen das Königreich Asfallon zu retten.<br>Im nächsten Teil warten weitere spannende Aufgaben auf dich, Edvin, Bragi und Finja. <br>",
+        "button": "Weiter"
+      }
+    ],
+    [
+      [],
+      [],
+      [],
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+        "text": "Bis zum nächsten Mal! <br>Du hast das Spiel mit Edvin, Bragi und Finja heute zum 3. mal gespielt. Vergiss nicht, es bald wieder zu spielen, um Edvin, Bragi und Finja zu helfen das Königreich Asfallon zu retten.<br>Im nächsten Teil warten weitere spannende Aufgaben auf dich, Edvin, Bragi und Finja. <br>",
+        "button": "Weiter"
+      }
+    ],
+    [
+      [],
+      [],
+      [],
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+        "text": "Bis zum nächsten Mal! <br>Du hast das Spiel mit Edvin, Bragi und Finja heute zum 4. mal gespielt. Vergiss nicht, es bald wieder zu spielen, um Edvin, Bragi und Finja zu helfen das Königreich Asfallon zu retten.<br>Im nächsten Teil warten weitere spannende Aufgaben auf dich, Edvin, Bragi und Finja. <br>",
+        "button": "Weiter"
+      }
+    ],
+    [
+      [],
+      [],
+      [],
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+        "text": "Bis zum nächsten Mal! <br>Du hast das Spiel mit Edvin, Bragi und Finja heute zum 5. mal gespielt. Vergiss nicht, es bald wieder zu spielen, um Edvin, Bragi und Finja zu helfen das Königreich Asfallon zu retten.<br>Im nächsten Teil warten weitere spannende Aufgaben auf dich, Edvin, Bragi und Finja. <br>",
+        "button": "Weiter"
+      }
+    ],
+    [
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+        "text": "Bis zum nächsten Mal! <br>Du hast das Spiel mit Edvin, Bragi und Finja heute zum 6. mal gespielt. Vergiss nicht, es bald wieder zu spielen, um Edvin, Bragi und Finja zu helfen das Königreich Asfallon zu retten.<br>Im nächsten Teil warten weitere spannende Aufgaben auf dich, Edvin, Bragi und Finja. <br>",
+        "button": "Weiter"
+      },
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+        "text": "Bis zum nächsten Mal! <br>Du hast das Spiel mit Edvin, Bragi und Finja heute zum 7. mal gespielt. Vergiss nicht, es bald wieder zu spielen, um Edvin, Bragi und Finja zu helfen das Königreich Asfallon zu retten.<br>Im nächsten Teil warten weitere spannende Aufgaben auf dich, Edvin, Bragi und Finja. <br>",
+        "button": "Weiter"
+      }
+    ],
+    [
+      [],
+      [],
+      [],
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+        "text": "Bis zum nächsten Mal! <br>Du hast das Spiel mit Edvin, Bragi und Finja heute zum 8. mal gespielt. Vergiss nicht, es bald wieder zu spielen, um Edvin, Bragi und Finja zu helfen das Königreich Asfallon zu retten.<br>Im nächsten Teil warten weitere spannende Aufgaben auf dich, Edvin, Bragi und Finja. <br>",
+        "button": "Weiter"
+      }
+    ],
+    [
+      [],
+      [],
+      [],
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+        "text": "Bis zum nächsten Mal! <br>Du hast das Spiel mit Edvin, Bragi und Finja heute zum 9. mal gespielt. Vergiss nicht, es bald wieder zu spielen, um Edvin, Bragi und Finja zu helfen das Königreich Asfallon zu retten.<br>Im nächsten Teil warten weitere spannende Aufgaben auf dich, Edvin, Bragi und Finja. <br>",
+        "button": "Weiter"
+      }
+    ],
+    [
+      [],
+      [],
+      [],
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+        "text": "Bis zum nächsten Mal! <br>Du hast das Spiel mit Edvin, Bragi und Finja heute zum 10. mal gespielt. Vergiss nicht, es bald wieder zu spielen, um Edvin, Bragi und Finja zu helfen das Königreich Asfallon zu retten.<br>Im nächsten Teil warten weitere spannende Aufgaben auf dich, Edvin, Bragi und Finja. <br>",
+        "button": "Weiter"
+      }
+    ],
+    [
+      [],
+      [],
+      [],
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+        "text": "Bis zum nächsten Mal! <br>Du hast das Spiel mit Edvin, Bragi und Finja heute zum 11. mal gespielt. Vergiss nicht, es bald wieder zu spielen, um Edvin, Bragi und Finja zu helfen das Königreich Asfallon zu retten.<br>Im nächsten Teil warten weitere spannende Aufgaben auf dich, Edvin, Bragi und Finja. <br>",
+        "button": "Weiter"
+      }
+    ],
+    [
+      [],
+      [],
+      [],
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+        "text": "Bis zum nächsten Mal! <br>Du hast das Spiel mit Edvin, Bragi und Finja heute zum 12. mal gespielt. Vergiss nicht, es bald wieder zu spielen, um Edvin, Bragi und Finja zu helfen das Königreich Asfallon zu retten.<br>Im nächsten Teil warten weitere spannende Aufgaben auf dich, Edvin, Bragi und Finja. <br>",
+        "button": "Weiter"
+      }
+    ],
+    [
+      [],
+      [],
+      [],
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+        "text": "Bis zum nächsten Mal! <br>Du hast das Spiel mit Edvin, Bragi und Finja heute zum 13. mal gespielt. Vergiss nicht, es bald wieder zu spielen, um Edvin, Bragi und Finja zu helfen das Königreich Asfallon zu retten.<br>Im nächsten Teil warten weitere spannende Aufgaben auf dich, Edvin, Bragi und Finja. <br>",
+        "button": "Weiter"
+      }
+    ],
+    [
+      [],
+      [],
+      [],
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+        "text": "Bis zum nächsten Mal! <br>Du hast das Spiel mit Edvin, Bragi und Finja heute zum 14. mal gespielt. Vergiss nicht, es bald wieder zu spielen, um Edvin, Bragi und Finja zu helfen das Königreich Asfallon zu retten.<br>Im nächsten Teil warten weitere spannende Aufgaben auf dich, Edvin, Bragi und Finja. <br>",
+        "button": "Weiter"
+      }
+    ],
+    [
+      [],
+      [],
+      [],
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+        "text": "Bis zum nächsten Mal! <br>Du hast das Spiel mit Edvin, Bragi und Finja heute zum 15. mal gespielt. Vergiss nicht, es bald wieder zu spielen, um Edvin, Bragi und Finja zu helfen das Königreich Asfallon zu retten.<br>Im nächsten Teil warten weitere spannende Aufgaben auf dich, Edvin, Bragi und Finja. <br>",
+        "button": "Weiter"
+      }
+    ],
+    [
+      [],
+      [],
+      [],
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+        "text": "Bis zum nächsten Mal! <br>Du hast das Spiel mit Edvin, Bragi und Finja heute zum 16. mal gespielt. Vergiss nicht, es bald wieder zu spielen, um Edvin, Bragi und Finja zu helfen das Königreich Asfallon zu retten.<br>Im nächsten Teil warten weitere spannende Aufgaben auf dich, Edvin, Bragi und Finja. <br>",
+        "button": "Weiter"
+      }
+    ],
+    [
+      [],
+      [],
+      [],
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+        "text": "Bis zum nächsten Mal! <br>Du hast das Spiel mit Edvin, Bragi und Finja heute zum 17. mal gespielt. Vergiss nicht, es bald wieder zu spielen, um Edvin, Bragi und Finja zu helfen das Königreich Asfallon zu retten.<br>Im nächsten Teil warten weitere spannende Aufgaben auf dich, Edvin, Bragi und Finja. <br>",
+        "button": "Weiter"
+      }
+    ],
+    [
+      [],
+      [],
+      [],
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+        "text": "Bis zum nächsten Mal! <br>Du hast das Spiel mit Edvin, Bragi und Finja heute zum 18. mal gespielt. Vergiss nicht, es bald wieder zu spielen, um Edvin, Bragi und Finja zu helfen das Königreich Asfallon zu retten.<br>Im nächsten Teil warten weitere spannende Aufgaben auf dich, Edvin, Bragi und Finja. <br>",
+        "button": "Weiter"
+      }
+    ],
+    [
+      [],
+      [],
+      [],
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+        "text": "Bis zum nächsten Mal! <br>Du hast das Spiel mit Edvin, Bragi und Finja heute zum 19. mal gespielt. Vergiss nicht, es bald wieder zu spielen, um Edvin, Bragi und Finja zu helfen das Königreich Asfallon zu retten.<br>Im nächsten Teil warten weitere spannende Aufgaben auf dich, Edvin, Bragi und Finja. <br>",
+        "button": "Weiter"
+      }
+    ],
+    [
+      [],
+      [],
+      [],
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+        "text": "Bis zum nächsten Mal! <br>Du hast das Spiel mit Edvin, Bragi und Finja heute zum 20. mal gespielt. Vergiss nicht, es bald wieder zu spielen, um Edvin, Bragi und Finja zu helfen das Königreich Asfallon zu retten.<br>Im nächsten Teil warten weitere spannende Aufgaben auf dich, Edvin, Bragi und Finja. <br>",
+        "button": "Weiter"
+      }
+    ],
+    [
+      [],
+      [],
+      [],
+      {
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+        "text": "Das war dein Computerspiel mit Edvin, Bragi und Finja.<br>Wir hoffen, es hat dir Spaß gemacht.<br>",
+        "button": "Weiter"
+      }
+    ]
+  ]
+}
