@@ -23,7 +23,12 @@ module.exports = {
   },
 
   getImagePath: function(imageFileName) {
-    return 'https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/' + imageFileName;
+    if (imageFileName.indexOf('.png') !== -1) {
+      imageFileName.replace('.png', '.jpg');
+    } else if (imageFileName.indexOf('.jpg') === -1) {
+      imageFileName = imageFileName + '.jpg';
+    }
+    return 'https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/' + imageFileName.uppercaseFirstLetter();
   },
 
   getYoutubeId: function(videoUrl) {
