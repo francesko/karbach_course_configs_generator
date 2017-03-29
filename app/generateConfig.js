@@ -28,7 +28,8 @@ module.exports = function(rows, totalSessions, outputPath, configOptions) {
     staticScreen3: [],
     pseudoChoice: [],
     preEsScreen: [],
-    postEsScreen: []
+    postEsScreen: [],
+    content: {}
   };
 
   for(let sessionIndex = 1; sessionIndex <= totalSessions; sessionIndex = sessionIndex + 1) {

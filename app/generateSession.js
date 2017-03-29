@@ -11,7 +11,7 @@ const rowTypeToConfigMapping = {
   'StaticScreen2': 'staticScreen2',
   'PostES': 'postEsScreen',
   'PostESVideo': 'tutorialVideos',
-  'Questionnaire': 'questionnaire',
+  'Questionnaire': 'content',
   'StaticScreen3': 'staticScreen3'
 };
 
@@ -60,12 +60,17 @@ module.exports = function(config, rowList, session) {
       case 'StaticScreen2':
       case 'StaticScreen3': {
         val = {
-          'text': utils.prepareText(row.mainText),
-          'button': 'Weiter'
+          'text': utils.prepareText(row.mainText)
         };
 
         if (row.image) {
           val.image = utils.getImagePath(row.image);
+        }
+
+        if (row.type !== 'StaticScreen3') {
+          val.button = 'Weiter';
+        } else if (rows[i - 1] && rows[i - 1].type === 'Questionnaire') {
+          val.button = 'Weiter zur Fragebogen';
         }
       } break;
 
@@ -98,6 +103,19 @@ module.exports = function(config, rowList, session) {
           config.games_map.push(exercisesConceptIdMap[row.exerciseName]);
           exercises.push(row.exerciseName);
         }
+      } break;
+
+      case 'Questionnaire': {
+        config[rowName][sessionIndex] = {
+          "karbach_questionnaire": {
+            "type": "webform",
+            "postSession": 1
+          },
+          "karbach_form_submission": {
+            "type": "content",
+            "postSession": 1
+          }
+        };
       } break;
     }
 
