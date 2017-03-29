@@ -70,7 +70,7 @@ module.exports = function(config, rowList, session) {
         if (row.type !== 'StaticScreen3') {
           val.button = 'Weiter';
         } else if (rows[i - 1] && rows[i - 1].type === 'Questionnaire') {
-          val.button = 'Weiter zur Fragebogen';
+          val.button = 'Weiter zum Fragebogen';
         }
       } break;
 
