@@ -1828,7 +1828,8 @@
       },
       "karbach_form_submission": {
         "type": "content",
-        "postSession": 1
+        "postSession": 1,
+        "save": false
       }
     },
     "4": {
@@ -1838,7 +1839,8 @@
       },
       "karbach_form_submission": {
         "type": "content",
-        "postSession": 1
+        "postSession": 1,
+        "save": false
       }
     },
     "9": {
@@ -1848,7 +1850,8 @@
       },
       "karbach_form_submission": {
         "type": "content",
-        "postSession": 1
+        "postSession": 1,
+        "save": false
       }
     },
     "14": {
@@ -1858,7 +1861,8 @@
       },
       "karbach_form_submission": {
         "type": "content",
-        "postSession": 1
+        "postSession": 1,
+        "save": false
       }
     },
     "20": {
@@ -1868,7 +1872,8 @@
       },
       "karbach_form_submission": {
         "type": "content",
-        "postSession": 1
+        "postSession": 1,
+        "save": false
       }
     }
   }

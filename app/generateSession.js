@@ -113,7 +113,8 @@ module.exports = function(config, rowList, session) {
           },
           "karbach_form_submission": {
             "type": "content",
-            "postSession": 1
+            "postSession": 1,
+            "save": false
           }
         };
       } break;
