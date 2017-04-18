@@ -8,7 +8,7 @@
     "skippable": 0,
     "training_days": 5,
     "screenflow": "karbachNonMotivationalStudy",
-    "progressbar": true,
+    "progressbar": false,
     "showInGamePopups": false,
     "showInGameTutorial": 2,
     "trackInputData": 3,
@@ -1328,7 +1328,7 @@
     ],
     [
       {
-        "text": "Du hast die Aufgabe noch nicht vollständig gelöst.<br><br><br><br>Das Spiel geht genauso weiter.<br><br>",
+        "text": "Du hast die Aufgabe noch nicht vollständig gelöst.<br><br>Das Spiel geht genauso weiter.<br>",
         "button": "Weiter"
       },
       {

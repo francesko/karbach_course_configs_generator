@@ -8,7 +8,7 @@
     "skippable": 0,
     "training_days": 5,
     "screenflow": "karbachMotivationalStudy",
-    "progressbar": true,
+    "progressbar": false,
     "showInGamePopups": false,
     "showInGameTutorial": 2,
     "trackInputData": 3,
