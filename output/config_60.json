@@ -6,7 +6,7 @@
     ],
     "shuffle": "0",
     "skippable": 0,
-    "training_days": 5,
+    "training_days": 7,
     "screenflow": "karbachMotivationalStudy",
     "progressbar": false,
     "showInGamePopups": false,
@@ -1934,8 +1934,8 @@
         "button": "Weiter"
       },
       {
-        "text": "Bis zum nächsten Mal! <br>Du hast das Spiel mit Edvin, Bragi und Finja heute zum 11. mal gespielt. Vergiss nicht, es bald wieder zu spielen, um Edvin, Bragi und Finja zu helfen das Königreich Asfallon zu retten.<br>Im nächsten Teil warten weitere spannende Aufgaben auf dich, Edvin, Bragi und Finja. <br>",
-        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
+        "text": "Die Drachen treten die Flucht an und verlassen das Dorf.",
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Dorf.jpg",
         "button": "Weiter"
       }
     ],
@@ -2008,7 +2008,7 @@
     [
       {
         "text": "Edvin hat noch nicht alle Drachen verjagt. Hilf ihm weiterhin dabei!<br>Das Spiel geht genauso weiter.",
-        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Drachenwüste.jpg",
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/DrachenWüste.jpg",
         "button": "Weiter"
       },
       {
@@ -2052,7 +2052,7 @@
     [
       {
         "text": "Edvin ist noch nicht oben angekommen. Hilf ihm weiterhin dabei Finjas Weg zu folgen.<br>Das Spiel geht genauso weiter. ",
-        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Edvinklettert.jpg",
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/EdvinKlettern.jpg",
         "button": "Weiter"
       },
       {
@@ -2254,7 +2254,10 @@
       [],
       [],
       [],
-      []
+      {
+        "text": "Bis zum nächsten Mal! <br>Du hast das Spiel mit Edvin, Bragi und Finja heute zum 11. mal gespielt. Vergiss nicht, es bald wieder zu spielen, um Edvin, Bragi und Finja zu helfen das Königreich Asfallon zu retten.<br>Im nächsten Teil warten weitere spannende Aufgaben auf dich, Edvin, Bragi und Finja. <br>",
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg"
+      }
     ],
     [
       [],
