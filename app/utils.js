@@ -19,7 +19,9 @@ module.exports = {
     return text
       .replace('\n\nWenn du die ganze Geschichte noch einmal hören möchtest, klicke auf „nochmal anhören“\nWenn du mit dem Spiel weitermachen möchtest klicke auf „weiter“\n', '')
       .replace(/\n/g, '<br>')
-      .replace(/\r/g, '<br>');
+      .replace(/\r/g, '<br>')
+      .replace(/(<br>)+/g, '<br><br>')
+      .replace(/^\s*(?:<br\s*\/?\s*>)+|(?:<br\s*\/?\s*>)+\s*$/g, '');
   },
 
   getImagePath: function(imageFileName) {
