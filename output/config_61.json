@@ -1233,7 +1233,6 @@
       ],
       [],
       [
-        "",
         "R08mreY7DY8"
       ],
       [
@@ -1243,7 +1242,6 @@
     ],
     [
       [
-        "",
         "DNjC3Bj1KKM"
       ],
       [],
@@ -1362,8 +1360,9 @@
         "kE0o3jUWtY0"
       ],
       [],
-      [],
-      [],
+      [
+        "PH_XQF7XR74"
+      ],
       [
         "",
         "T-bDgfViNao"
@@ -1479,7 +1478,6 @@
       ],
       [],
       [
-        "",
         "KYecfhlJ1mk"
       ],
       [
@@ -1950,7 +1948,6 @@
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Dorf.jpg",
         "button": "Weiter"
       },
-      [],
       {
         "text": "Edvin, Bragi und Finja haben das Ufer noch nicht erreicht. Hilf ihnen weiterhin den Weg durch die Felsen zu finden.<br><br>Das Spiel geht genauso weiter.",
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/See.jpg",
@@ -2009,7 +2006,7 @@
     [
       {
         "text": "Edvin und Bragi sehen noch immer Tiere, die es gar nicht gibt! Hilf Finja dabei, sie zu retten.<br><br>Das Spiel geht genauso weiter.",
-        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Tierewüste.jpg",
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/TiereWüste.jpg",
         "button": "Weiter"
       },
       {
@@ -2265,7 +2262,6 @@
       }
     ],
     [
-      [],
       [],
       [],
       [],
@@ -2711,7 +2707,6 @@
       1
     ],
     [
-      0,
       0,
       1,
       0,

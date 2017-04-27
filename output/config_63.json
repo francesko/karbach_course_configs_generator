@@ -1346,12 +1346,21 @@
     ],
     [
       {
-        "text": "Für heute bist du fertig. Nächstes mal warten neue spannende Spiele auf dich.",
+        "text": "Du hast die Aufgabe noch nicht vollständig gelöst.<br><br>Das Spiel geht genauso weiter.",
         "button": "Weiter"
       },
-      [],
-      [],
-      []
+      {
+        "text": "Du hast die Aufgabe gelöst. Gleich kommt das nächste Spiel.",
+        "button": "Weiter"
+      },
+      {
+        "text": "Das Spiel ist noch nicht zu Ende. Es geht so weiter wie bisher.",
+        "button": "Weiter"
+      },
+      {
+        "text": "Für heute bist du fertig. Nächstes mal warten neue spannende Spiele auf dich.",
+        "button": "Weiter"
+      }
     ],
     [
       {
@@ -1673,13 +1682,13 @@
       }
     ],
     [
+      [],
+      [],
+      [],
       {
         "text": "Bis zum nächsten Mal! <br><br>Du hast das Spiel mit Edvin, Bragi und Finja heute zum 6. mal gespielt. Vergiss nicht, es bald wieder zu spielen, um Edvin, Bragi und Finja zu helfen das Königreich Asfallon zu retten.<br><br>Im nächsten Teil warten weitere spannende Aufgaben auf dich, Edvin, Bragi und Finja. ",
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg"
-      },
-      [],
-      [],
-      []
+      }
     ],
     [
       [],
