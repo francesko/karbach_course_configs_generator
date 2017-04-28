@@ -1679,11 +1679,7 @@
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Logo.jpg",
         "button": "Weiter"
       },
-      {
-        "text": "Edvin, Bragi und Finja haben das letzte Bruchstück des Jupitersteins gefangen. Jetzt können sie alle Teile zusammensetzen.",
-        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Jupiterstein6.jpg",
-        "button": "Weiter"
-      },
+      [],
       [],
       []
     ],
@@ -2122,7 +2118,11 @@
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Jupiterstein6.jpg",
         "button": "Weiter"
       },
-      [],
+      {
+        "text": "Edvin, Bragi und Finja haben das letzte Bruchstück des Jupitersteins gefangen. Jetzt können sie alle Teile zusammensetzen.",
+        "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Jupiterstein6.jpg",
+        "button": "Weiter"
+      },
       {
         "text": "Edvin hat den Vereinigungszauber noch nicht gefunden! Hilf ihm weiterhin in den Büchern zu suchen. Das Spiel geht genauso weiter.",
         "image": "https:\/\/contentimg.s3.amazonaws.com/karbach/mainstudy/Inhibition_gonogo_bücher.jpg",
